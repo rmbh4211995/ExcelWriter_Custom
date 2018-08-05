@@ -1,0 +1,11 @@
+JCA ID,Capability,EMWs,Emw Count
+1.4.1.7.1,Plan Collaboratively,E1 | E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 | W9 ,14
+1.4.1.6,Casualty Management,E1 | E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W7 | W8 | W9 ,13
+1.4.2.1,DEFINE THE HEALTH BENEFIT,E1 | E2 | E3 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 | W9 ,13
+1.1,Force Management,E1 | E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,13
+5.1.1.2,Cultivate Coordination with Partner Organizations,E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 | W9 ,12
+1,Force Support,E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,12
+1.4.2,HEALTH SERVICE DELIVERY,E1 | E2 | E3 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 ,12
+1.4.1.5,Global Patient Movement,E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,11
+1.4.3,HEALTH SYSTEM SUPPORT,E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W5 | W6 | W8 ,11
+1.4.1.5.7,Patient Movement Planning  C2,E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,11

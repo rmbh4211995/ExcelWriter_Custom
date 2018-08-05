@@ -1,0 +1,716 @@
+2015 JCA NAME,Count,E1,E2,E3,E4,W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,M1,JCA ID,JCA Definitions
+Above Surface (PK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.1,The ability to defeat kinetically delivered attacks in air and space.
+Above Surface (PN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.2.1,The ability to defeat non-kinetically delivered attacks in air and space.
+Access a Healthy and Fit Force,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.2.1,"The ability to obtain a healthy and fit force using appropriate standards for aptitudes and abilities, medical and mental conditions, and physical fitness to select recruits most likely to finish basic training, perform their job, and successfully complete the first term of service (generally 36 months)."
+Accounting and Finance,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,9.5.2,"The ability to direct, supervise, provide advice, formulate policy, analyze, evaluate, and recommend efficient and effective resource allocation and performance targets/measures that support DOD missions, strategic goals, objectives, priorities, and approved strategies and policies including the ability to direct, formulate,"
+Achievement of health preparedness and an adequate response capability,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.10.4,"The ability to generate capabilities that medical personnel require to repair, restore, stabilize, or rehabilitate both DoD and non-DoD casualties within the homeland, including preparation for medical evacuation, return to duty, or rehabilitation. Response is coordinated with the USG Interagency and other partners."
+Acquisition,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,9.4,"The ability to establish and oversee policies, standards and assessment mechanisms for organization, security, access, and storage of data, information, and Information Technology (IT) architectures."
+Acquisition Management,4,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,9.4.4,"The ability to test of product elements, manufacturing or support processes during"
+Activate / Inactivate,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.3.1,The ability to determine faults or verify repairs or determine condition of an item of equipment based on established equipment maintenance and serviceability standards.
+Activate / Inactivate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.3.1,The ability to determine faults or verify repairs or determine condition of an item of equipment based on established equipment maintenance and serviceability standards.
+Advanced Technology,4,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,9.4.2,"The ability to translate promising basic research into solutions for broadly defined military needs, including studies, investigations, and non-system specific technology efforts, including design, development, and improvements of prototypes and new processes to meet general mission area requirements."
+Advice and EXternal Matters,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,9.1.1,"The ability to provide advice, counsel, review, inspection and evaluation of policies, standards, systems, procedures and internal controls to ensure compliance with statutory and regulatory requirements and to propose changes to existing requirements."
+Advisory and Compliance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.1,"The ability to provide strategic senior level, enterprise-wide leadership, direction, coordination, and oversight through a chief management officer function."
+Aeromedical Evacuation (AE),6,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1.4.1.5.1,The ability to provide movement of regulated patients under medical supervision to and between MTFs by USAF fixed-wing organic or commercial assets. Civil Reserve Air Fleet may also be used.
+Air (EKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.1,The ability to kinetically engage targets under water at a depth of 40-200 feet.
+Air (ENKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.1,"The ability to non-kinetically engage targets beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+Air (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.1,The ability to integrate the use of maneuver and engagement in all environments to create the effects necessary to achieve mission objectives.
+Air (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.1,The ability to maneuver to engage below the surface of a body of water.
+Air (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.1,The ability to maneuver to insert below the surface of a body of water.
+Air (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.1,The ability to maneuver to influence below the surface of a body of water.
+Airfield Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2.5,The ability to prevent and respond to accidents and mitigate risk to the lowest acceptable level for real property.
+Allocation,7,0,0,0,1,0,0,1,1,1,0,0,1,0,1,1,1.1.1.3,"The ability to provide forces and resources, without transferring combatant command authority, to another combatant commander for execution planning or actual execution."
+Ambulatory Diagnostic Services (Dental),4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.3.2,The ability to apply dental examinations and capabilities on an outpatient basis (return home the same day) without admission to a hospital.
+Ambulatory Diagnostic Services (Medical),4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.3.1,The ability to apply medical examinations and capabilities on an outpatient basis (return home the same day) without admission to a hospital.
+Amputee Care,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.5.2,"The ability to assist patients who will experience, or have experienced, amputation and/or limb deficiency at any point along the continuum of care, including preoperative assessment, surgery, acute hospitalization, rehabilitation, outpatient services, prosthetics, and life-long management."
+Analysis  Prediction and Production,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,"The ability to integrate, evaluate, analyze, and interpret, information from available sources to develop intelligence and forecast/predict the future state to enable situational awareness and provide actionable information."
+Analyze Courses of Action,5,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,5.3.5,The ability to evaluate potential solutions to determine likelihood of success.
+Analyze Information,6,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,5.2.2.2,The ability to methodically examine information by decomposing it into its constituent parts and studying their interrelations in a given context.
+Analyze Problem,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.1,The ability to review and examine all available information to determine necessary actions.
+Analyze Situation,5,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,5.3.1.1,"The ability to evaluate synthesized situational awareness, including intelligence assessments, environmental condition, and force assessments to prepare strategies or plans."
+Anticipate and Predict Health Threats,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.4.3,"The ability to anticipate, predict, and mitigate effects of climate/environment or other OEH threats. This capability relies upon monitoring the health of populations, evaluating disease outbreaks/clusters, and making forecast-based predictions on the effects of the environment and individual influences of the environment on humans or animals."
+Applied,4,0,0,0,1,0,0,0,0,1,1,0,0,0,1,0,9.4.1.2,The ability to conduct a systematic study directed toward the discovery of knowledge or understanding of the fundamental aspects of phenomena and of observable facts without specific applications.
+Apply Situational Understanding,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.2,The ability to use synthesized information and awareness applicable to a given situation or environment to further understand the problem.
+Apportionment,5,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,1.1.1.1,The ability to designate forces and resources to a combatant commander for contingency planning.
+Archive and Retrieve Health-Related Documents and Data,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1.4.1.4.9,"The ability to provide effective laboratory and information management systems and procedures for documenting, compiling, storing, and archiving germane non-clinical preventive medicine and health surveillance data, including deployment and in-garrison OEH- and CBRNE-related data in usable and actionable formats that enable retrieval, strategic communication, and future reference. Includes the ability to create longitudinal exposure records which include individual exposures recorded in medical records and archived OEH and CBRNE monitoring data critical for the short- and long-term health protection of the force."
+Area (EKFS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.2,"The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+Area (EKMS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.2,"The ability to kinetically engage moving targets that are reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+Area (EKSS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.2,"The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+Area (ENKFS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.1.1.2,The ability to non-kinetically engage a geographic area or object that is unable to move.
+Area (ENKMS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.3.2,The ability to non-kinetically engage moving targets in the region beginning at the lower boundary of the Earth’s ionosphere (approximately 50 KMs) and extending outward.
+Area (ENKSS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.2.1.2,The ability to non-kinetically engage an object that could move but is currently not moving.
+Assess (P&D),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2.1.3.4,The ability to determine if gaps in current information holdings have been filled.
+Assess Achievement of Objectives,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5.6.3,The ability to determine when the desired end-state has been reached.
+Assess Available Capabilities,4,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,5.3.4.1,The ability to determine the adequacy and readiness of the current resources and the means to accomplish a defined objective.
+Assess Capabilities,8,0,0,1,0,1,1,1,1,1,0,0,0,0,1,1,5.1.2.2,The ability to facilitate and sustain organizational synergy with military and civilian counterparts.
+Assess Compliance with Guidance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6.1,The ability to determine if performance adheres to established parameters and expectations.
+Assess Effects,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6.2,"The ability to analyze, track, and measure the results of actions taken."
+Assess Employment of Forces,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6.1.1,The ability to determine if forces have been applied to assigned objectives.
+Assess Global Requirements  Resources  Capabilities and Risks,7,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,4.2.4,The ability to maintain accountability and set stockage levels of materiel and equipment.
+Assess Guidance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6.4,The ability to determine if direction is achieving the desired end-state and is appropriate for the situation.
+Assess Manner of Employment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6.1.2,The ability to determine if force employment has followed established guidance.
+Assign Roles and Responsibilities,6,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,5.1.2.3,"The ability to dynamically organize elements and define roles, responsibilities, and authorities."
+Assignment,6,0,0,0,1,0,0,1,1,1,1,0,0,0,0,1,1.1.1.2,The ability to place forces and resources under the combatant command authority of a combatant commander IAW Title 10 USC Section 162.
+Assure Access,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.1.3.1.1,"The ability to identify and authenticate individuals, groups, and entities and provide authorization to services and information."
+Assure Transfer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.3.1.2,"The ability to exchange authentic data, information, and knowledge between authorized individuals, groups, and entities."
+Audit  Inspection and Investigation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.1.2,The ability to advise and assist the Department of Defense leaders on all issues involving Congressional testimony or reporting.
+Audits,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.1.2.1,The ability to understand and monitor matters relating to effective operations of DOD with particular regard to internal review activities.
+BA Data Access,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5.2,"The ability to develop and tailor intelligence, information, and environmental content and products per customer requirements."
+BA Data Dissemination and Relay,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5,The ability to derive knowledge and develop new insight from gathered information to postulate its significance.
+BA Data Transmission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5.1,The ability to describe the anticipated future state of the operational/physical environment based on the depiction of past and current information.
+Base and Installations Support,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7,"The ability to portray and refine data pertaining to the geographic location and characteristics of natural or constructed features and boundaries in order to provide engineer services. Examples include: terrain analyses, terrain visualization, digitized terrain products, nonstandard tailored map products, facility support, and force beddown analysis."
+Base Support Vehicles and Equipment,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4.7.2.3,The ability to deliver selected services not related to real property (or personnel services) to meet the requirements of the installation population and mission.
+Basic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.4.1.1,"The ability to conduct fundamental research, science, technology, development and experimentation important to all Departmental capabilities and operations."
+Battlespace Awareness (BA),2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,"The ability to understand dispositions and intentions as well as the characteristics and conditions of the operational environment that bear on national and military decision-making by leveraging all sources of information to include Intelligence, Surveillance, Reconnaissance, Meteorological, and Oceanographic."
+Beneficiary Services,5,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1.4.3.2.3,"The MHS must understand and deliver patient customer service requirements through initial and ongoing health plan benefit education, enrollment, assistance with accessing care and services, claims administration, and payment. Beneficiary Services also include the ability to effectively inform eligible beneficiaries on how to exercise freedom of choice among health plans available to them. Requires a unique understanding of the Department’s health benefit process enrollment-related transactions, assign primary care providers, provide customer service and assist eligible beneficiaries in the use of available health and dental plans."
+Beyond Line of Sight,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.1.2.2,The ability to exchange data or information via electromagnetic spectrum beyond line of sight.
+Billeting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.3.2,"The ability to provide block, crushed, and cubed ice to support feeding, medical, mortuary affairs, and individual hydration."
+Biological (ML),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.2,The ability to minimize the effects of biological attacks which have the potential to kill personnel and destroy physical assets.
+Biological (MN),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.2.2.2,The ability to minimize the effects of biological attacks which do not have the potential to kill personnel and destroy physical assets.
+Biometrics Data (HBC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.4.4,"The ability to gather information on an individual based on measurable anatomical, physiological, and behavioral characteristics."
+Blood,5,0,0,1,1,0,0,1,0,1,0,0,1,0,0,0,1.4.3.9.2,The ability to organize and manage the provision of blood and blood products including the ability to plan and execute the provision of blood and blood products required for delivery of HR and in compliance with all applicable national standards.
+Build the Capabilities and Capacities of Partners and Institutions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.3,The ability to assist domestic and foreign partners and institutions with the development of their capabilities and capacities – for mutual benefit – to address U.S. national or shared global security interests.
+Building Partnerships,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,"The ability to interact with partner, competitor or adversary leaders, security institutions, or relevant populations by developing and presenting information and conducting activities to affect their perceptions, will, behavior, and capabilities in order to build effective, legitimate, interoperable, and self-sustaining strategic partners."
+Bulk Water (non-potable),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.2.1,"The ability to receive, store, centrally prepare and serve operational rations, authorized enhancements, and supplements under sanitary field feeding conditions to disbursed populations in a tactical field environment."
+Bulk Water (potable),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4.4.2.2,"The ability to receive, store, and prepare meals, authorized enhancements, and supplements under sanitary field feeding conditions to dispersed populations and return the supporting equipment."
+Burn Care,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.5.3,"The ability to apply highly specialized medical training, resources, and technologies to manage, treat, and heal patients with deep burn injuries."
+Calibrate,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.6,"The ability to recapitalize an item to a standard as nearly as possible to its original condition in appearance, performance, and life expectancy."
+Calibrate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.6,"The ability to recapitalize an item to a standard as nearly as possible to its original condition in appearance, performance, and life expectancy."
+Capabilities Development,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,9.2.2,"The ability to assess the security environment, establish a DOD direction, strategic goals, priorities, objectives and guidance. Includes enterprise-level planning activities to determine the integrated and balanced military forces and Joint force capabilities needed to accomplish the DOD strategy."
+Capability Demonstration,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,9.4.2.2,The ability to arbitrate performance evaluation between competing models or prototypes to optimize DOD capabilities.
+Capability EXperimentation,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,9.4.2.1,"The ability to produce innovative and unique components and prototypes that can be integrated into defense systems for field experiments and/or tests in a simulated ""or operational"" environment ""to assess military utility"" prior to full development."
+Capability Termination & Disposal,3,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,9.4.4.5,"The ability to convert raw materials by fabrication into required weapons or systems, including production-scheduling, inspection, quality control and related processes; and tailored product support to achieve specific and evolving life cycle product support availability, reliability and performance parameters."
+Case Management:,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.6.2,"The ability to assess and assist clients with complex health needs, utilizing a collaborative process, to promote the delivery and receipt of appropriate medical care to achieve positive health outcomes in the most cost-effective manner. Medical case management may include, but is not limited to, care assessment, including personal interview with the injured employee. May include assistance in developing, implementing and coordinating a medical care plan with healthcare providers, as well as the employee, military command/unit and/or his/her family and evaluation of treatment results. Medical case management requires the evaluation of a medical condition, developing and implementing a plan of care, coordinating medical resources, communicating healthcare needs to the individual, monitoring an individual‘s progress and promoting cost-effective care."
+Casualty Assistance,10,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1.3.1.2,"The ability to provide authorized and necessary support services to eligible family members of deceased, Duty Status - Whereabouts Unknown (DUSTWUN), Excused Absence - Whereabouts Unknown (EAWUN), missing, ill, or injured personnel."
+Casualty Evacuation (CASEVAC),6,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1.4.1.5.2,"The ability to provide unregulated movement of casualties aboard non-dedicated, non-standardized platforms (vessels, vehicles, or aircraft), including movement to and between MTFs."
+Casualty Management,13,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1.4.1.6,"The ability to provide a continuum of timely, responsive medical and surgical care that incorporates the latest technologies and advancements in medical sciencThis care begins with the first responder and proceeds through forward/resuscitative care and theater hospitalization in the joint area of operationHealth Service Delivery addresses definitive care at a CONUS-based rehabilitative facility."
+Chemical (ML),2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,7.2.1.1,The ability to minimize the effects of chemical attacks which have the potential to kill personnel and destroy physical assets.
+Chemical (MN),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.2.1,The ability to minimize the effects of chemical attacks which do not have the potential to kill personnel and destroy physical assets.
+Chemical  Biological  Radiological and Nuclear (EKFSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.1.3,The ability to kinetically engage a target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it.
+Chemical  Biological  Radiological and Nuclear (EKFU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.2.2,The ability to kinetically engage targets that are not protected against attack.
+Chemical  Biological  Radiological and Nuclear (EKMSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.1.3,The ability to kinetically engage a moving targets of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it.
+Chemical  Biological  Radiological and Nuclear (EKMU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.4.2,The ability to kinetically engage targets that are not protected against attack.
+Chemical  Biological  Radiological and Nuclear (EKSSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.1.3,The ability to kinetically engage a target of such small dimension that it requires the accurate placement of ordnance in order to neutralize or destroy it.
+Chemical  Biological  Radiological and Nuclear (EKSU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.2.2,The ability to kinetically engage targets that are not protected against attack.
+Chemical  Biological  Radiological and Nuclear (ENK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.6,"The ability to disrupt, deny, degrade or destroy an adversary’s use of radio ranging technology."
+Civilian Education,5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1.2.3.2,The ability to develop knowledge at the post-secondary academic level to enhance the DOD’s mission.
+Claims Payment,3,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1.4.3.2.4,"The ability to provide reimbursement to contributing medical/non-medical resources for health care products and services provided to eligible patients in properly documented manner and in accordance with all associated payment rules and regulations. Claims payment requires the ability to verify beneficiary eligibility for coverage through the employment of the Department’s official systems of record, currently Defense Enrollment Eligibility Reporting System (DEERS). Claims Payment also include the requirements for systems or processes that facilitate timely and effective health claims payment and methods to ensure TRICARE encounter data is provided to the government in accordance with contract requirements and as required to eliminate waste, fraud and abuse."
+CLINICAL PREVENTIVE MEDICINE,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2,"The ability to provide effective methods to reduce overall disease burden in a population and potentially reduce non-battle injuries for warfighterPreventive medicine includes preventive medical and dental services, occupational health services, and public health laboratory serviceCommonly used approaches are vaccination, counseling to modify high-risk behaviors, screening, and proactive treatments for chronic disease processes to establish early control and medical management."
+Collaboration,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.3.2,"The ability to conduct synchronous and asynchronous communications and interaction across the enterprise, including voice, data, video, and manipulated visual representation."
+Collection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2,The ability to gather data and obtain required information to satisfy information needs.
+Combat Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.2,"The ability to rehabilitate critical infrastructure. This capability includes repairing or demolishing damaged buildings, restoring utilities such as electrical power, and bringing critical facilities such as hospitals, water treatment plants and waste management facilities online."
+Command and Control,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,"The ability to safely maintain, schedule, control and monitor ranges, and uses associated with airspace/sea space and safety zone environments related to fixed point (non-maneuver) ranges."
+Common Identity Assurance Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.2.3.5,The ability to establish and deploy common identity assurance services across the enterprise.
+Communicate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1,"The ability to understand, engage, develop and present information to domestic partner audiences to improve understanding; and, to foreign partner audiences to create, strengthen, or preserve conditions favorable for the advancement of United States Government interests, policies, and objectives through the use of coordinated programs, plans, themes, messages, and products integrated with the actions of all instruments of national power."
+Communicate Intent and Guidance,3,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,5.5.1,"The ability to promulgate a concise expression of the operational purpose, assessment of acceptable operational risk, and guidance to achieve the desired end state."
+Communicate Medical Plan to Support Commander’s Intent and Guidance,4,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1.4.1.8.1,"The ability to share the medical plan, which must address the commander’s intent in a concise expression of the operational purpose and desired end state. The medical plan must adapt to changes in the commander’s intent and must be shared early and often to enable parallel planning and self-synchronized execution of a seamless medical system."
+Communication Bridge,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.1.3.1,The ability to interface two or more common communications media or networks.
+Communication Gateway,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.1.3.2,The ability to interface two or more disparate communications media or networks.
+Communications (ENKES),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.5.3,The ability to conduct non-kinetic engagements against an adversary’s use of the range of electromagnetic radiation.
+Communications (SC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.1.1,The ability to intercept and derive information from voice and data communications.
+Communications and Computers,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,6,"The ability to provide a framework for full human and technical connectivity and interoperability that allows all DOD users and mission partners to share the information they need, when they need it, in a form they can understand and act on with confidence, and protects information from those who should not have it."
+Community Health Education:,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.1.3,The ability to provide any combination of learning experiences provided to DoD beneficiaries with the end goal of attempting to bring about behavioral changes that improve or sustain an optimal state of health. Community health education programs begin with a needs assessment to identify population requirements and to determine whether a particular health education program is warranted and/or will be successful.
+Community Support,10,0,1,1,0,1,1,1,0,1,1,0,1,1,0,1,1.3.1.1,"The ability to sustain a military member and family support platform encompassing tuition assistance, children’s education, spouse training and employment, child and youth services, morale welfare and recreation, and other programs that underwrite support to military members and their families."
+Compensation,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1.3.2.2,"The ability to develop, implement and oversee policies that maintain fair and competitive pay, and entitlement systems."
+Compile Information,4,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,5.2.1.1,The ability to define and develop the mechanism and methodologies to ensure mission partners fully leverage shared information and the exchange of ideas.
+Compile Information,3,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,5.2.1.1,"The ability to gather information from available sources (e.g. friendly, adversary, neutral, environmental, sociological)"
+Computing Services,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.2,The ability to process data and provide physical and virtual access to hosted information and data centers across the enterprise based on established data standards.
+Concepts,3,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1.2.6,an expression of how something might be done.
+Contagious (MLB),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.2.1,The ability to minimize the effects of contagious biological attacks which have the potential to kill personnel and destroy physical assets.
+Contagious (MNB),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.2.2.1,The ability to minimize the effects of contagious biological attacks which
+Content Delivery,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.3.4,"The ability to accelerate delivery and improve reliability of enterprise content and services, by optimizing the location and routing of information."
+Content Discovery,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.3.3,"The ability to identify, search for, or locate relevant information."
+Contingency Base Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.3,"The ability to produce, inspect, and distribute bulk potable water from storage to point of use."
+Contingency Fatality Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.5.1,The ability to provide personal shower and sink facilities and human waste collection and processing for individuals of both sexes in a field environment.
+Contingency Location Feeding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.1.1,The ability to compare an instrument with an unverified accuracy to an instrument of known or greater accuracy to detect and correct any discrepancy in the accuracy of the unverified instrument.
+Continuing Health Education,5,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,1.4.3.5.4,"The ability to provide health care providers with specific continuing health education to maintain competence and currency regarding core, new and developing areas of study and practice. Educational forums include live, virtual, and constructive events; modeling and simulation; written publications; online programs; and audio, video, or other electronic media. These forums are developed, reviewed, and delivered by experts in their clinical and operational areas. Continuing Health Education must provide health care providers with a venue to sustain currency in accordance with certification/licensure requirements while maintaining global military medical awareness and understanding."
+Contract Development,5,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1.4.3.1.1,The ability to provide contract strategies that deliver ?best value balance between vendor performance and deliverable quality and cost through collaboration with medical service delivery leadership. Contract Development includes the ability to plan and execute standardized strategies for addressing key health-related acquisition categories.
+Contract Modifications,5,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1.4.3.1.2,"The ability to alter specification, delivery, contract period, price, quantity, or other provisions of an existing contract through unilateral action in accordance with a contract provision (change order), or by mutual action of the parties to the contract (contract amendment). It includes administrative changes, notices of termination, field orders, and notices of exercise of a contract option and contract extensions."
+Contract Support Integration,8,0,1,1,0,0,1,0,0,1,1,0,0,1,1,1,4.5.1,"The ability to provide for search, recovery, mitigation of chemical, biological, or radiological contamination, identification (tentative or positive), temporary storage/interment, preparation for and evacuation of human remains and personal effects to the US."
+Contracting,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,9.4.4.2,"The ability to formally enter programs into the acquisition process, fully funded across the Future Years Defense Program."
+Contractor Management,3,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,4.5.2,"The ability to receive, prepare, positively identify, and ship the remains of persons and personal effects to a receiving funeral home in accordance with options offered to the Person Authorized to Direct Disposition (PADD)."
+Core and Specialty Medical Education and Training Programs,4,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1.4.3.5.1,"The ability to provide effective core medical education and training programs and specialty medical education and training programs to officers, enlisted and civilian personnel to meet the training and certification requirements for their military specialty code(s) and civilian position(s). Core and Specialty Medical Education and Training Programs require the ability to ensure education and training competencies support contingency operations, combatant commander requirements, and the peacetime medical mission; the ability to provide basic and specialty medical education and training which meet or exceed specialty certification and training requirements while focusing on care delivery during global contingency operations and the ability to evaluate education and training programs using evidence-based design to enhance core competencies."
+Core Enterprise Services,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.3,"The ability to provide awareness of, access to and delivery of information on the DODIN via a small set of CIO mandated services."
+Corporate Management and Support,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,9,"The ability to develop a network of host-nation relationships activities, and footprint of facilities and forces through decision-making and diplomatic efforts which enable relevant and flexible forward U.S. military presence for contending with uncertainty and shaping the strategic environment."
+Counterintelligence (CI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.4.2,"The ability to gather information and conduct activities to identify, exploit, or"
+Create and Sustain the Healing Environment,3,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1.4.3.8,"The ability to program, design, and build health facilities that promote safety, efficient care delivery, patient empowerment, and promote healing through aesthetic qualities (includes the ability to fully sustain existing health facilities to ensure a consistent level of reliable infrastructure and systems operations)."
+Credentialing and Privileging,3,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1.4.3.4.2,"(1) Credentialing: The ability to confirm the qualifications of health care providers, including collection, verification, assessment and interpretation of practitioner information and documents, such as appropriate education, training, licensure, experience, and expertise. (2) Privileging: The ability to grant permission and assign responsibility to a health care provider to independently provide specified or delineated health care within the scope of his or her license, certification, or registration. Clinical privileges define the scope and limits of practice for individual providers and are based on the capability of the health care facility and on the licensure, relevant training and experience, current competence, health status, judgment, and peer and department head recommendations regarding the health care provider. Credentialing and privileging require the ability to validate professional licensure, education, and training; archive and report qualifications of health care providers; track required provider data; and communicate permissions to health care providers."
+Cultivate Coordination with Partner Organizations,12,0,1,1,1,1,1,1,1,1,1,0,1,1,1,0,5.1.1.2,"The ability to align or synchronize interdependent and disparate entities, including their associated processes and capabilities to achieve unity of effort."
+Cultivate Relations with Mission Partners,7,0,0,1,1,0,1,0,0,1,1,0,1,1,0,0,5.1.1.1,The ability to exercise authority and direction by a properly designated commander or decision maker over assigned and attached forces and resources in the accomplishment of the mission.
+Cyber Network (SC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.1.4,"The ability to access and gather data from automated information systems, networks, and data bases."
+Cybersecurity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.3,"The ability to provide the measures that protect, defend and restore information and information systems."
+Cyberspace (ENK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.4,"The ability to non-kinetically engage a moving target consisting of a region rather than a single point. This includes circular, linear, and irregular shaped targets."
+Cyberspace (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.7,"The ability to maneuver to engage on the surface of the oceans, seas, bays, estuaries, coastal areas, and the littorals."
+Cyberspace (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.7,The ability to maneuver to insert on the exterior or upper boundary of the sea.
+Cyberspace (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.7,The ability to maneuver to influence on the exterior or upper boundary of the sea.
+Cyberspace (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.7,The ability to secure the surface of the sea.
+Data Transformation (PE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3.1,"The ability to select, focus, simplify, tag and transform overtly or covertly collected data into human or machine interpretable form for further analysis or other action."
+Decide,5,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,5.4,The ability to select a course of action informed and influenced by the understanding of the environment or a given situation.
+Deep Water (EKFU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.3.4,The ability to kinetically engage targets under water at a depth of 0-10 feet.
+Deep Water (EKMU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.5.4,The ability to kinetically engage targets under water at a depth of 0-10 feet.
+Deep Water (EKSU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.3.4,The ability to kinetically engage targets under water at a depth of 0-10 feet.
+Defeat EXplosive Hazards,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.2.1,"The ability to apply site- and threat-adaptable plans and designs, advanced construction techniques and materials in order to enhance the prevention or mitigation of hostile actions against materiel resources, facilities and infrastructure."
+Defensive Cyber - Internal Defensive Measures,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.1.4,"the ability to dynamically reestablish, re-secure, reroute, reconstitute, or isolate degraded or compromised local networks ensuring sufficient cyberspace access for joint forces."
+Defensive Cyber (DC) Response Actions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.4.2,The ability to non-kinetically engage moving targets below the surface of a body of water.
+Define and Prioritize Requirements (P&D),1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2.1.1,The ability to translate national through tactical objectives and needs into specific information and operational requirements.
+Define Associated Community,7,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0,5.2.3.1,The ability to identify relevant stakeholders.
+Define Knowledge Structure,7,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,5.2.2.3,"The ability to organize information into cogent, actionable context."
+Define Structure,8,1,0,1,0,0,1,0,1,1,0,1,0,0,1,1,5.1.2.1,The ability to facilitate professional and personal relationships with military and civilian counterparts.
+DEFINE THE HEALTH BENEFIT,13,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1.4.2.1,"The ability to identify and plan for specific healthcare needs associated with a population of eligible beneficiaries and continuously measure, monitor, and positively influence health and wellness through evidenced-based preventive and interventional healthcare services."
+Deliver and Adjust Influential Content,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,8.1.3.3,"The ability to use selected senders and media to deliver themes, messages, information, and indicators to an adversary or competitor to respond in a manner that is in the interest of U.S. Government goals and objectives plans and, if required, recommend modification to theme, message, senders or medium."
+Deliver and Adjust Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.1.3,"The ability to understand the attitudes, opinions grievances, and concerns of partners and use selected senders and media to deliver themes, messages, and objective information in accordance with U.S. Government goals and objectives, and, if required, modify to themes, messages, senders or medium."
+Deliver and Adjust Persuasive Content,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8.1.2.3,"The ability to use selected senders and media to deliver themes, messages, information and indicators in accordance with U.S. government goals objectives, plans and, if required, recommend modification to theme, message, senders or medium."
+Deliver Non-Unit-Related Cargo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.2.1,"The ability to move forces, equipment and initial sustainment over intertheater distances."
+Deliver Non-Unit-Related Personnel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.2.2,"The ability to move forces, equipment, and initial sustainment within theater operational areas and over intratheater distances."
+Dental Care,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1.4.1.11.3,The ability to ensure that detainee dental care is conducted in compliance with the provisions of the Geneva Convention and our nation’s stance on human rights.
+Deny Movement and Maneuver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.2.3,"The ability to employ engineering capabilities and activities that support the maneuver of land combat forces and that require close support to those forces. Combat engineering consists of three types of capabilities and activities: mobility, countermobility, and survivability."
+Deployable Scalable and Modular Networks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.2.2,"The ability to design, assemble, transport, and establish mission-scaled networks from adaptable components network modules."
+Deployment and Distribution,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1,"The ability to disrupt, deny, degrade or destroy adversarial intelligence, surveillance and reconnaissance capabilities."
+Depot Maintenance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.1,"The ability to assess in real-time global requirements/demands against available resources and capabilities, make recommendations where supplies should be positioned to include WRM and prepositioned assets, and to mitigate risks."
+Detainee Emergency Healthcare,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1.4.1.11.2,The ability to provide emergency medical care and safeguard the health of detained personnel in compliance with the provisions of the Geneva Convention and our nation’s stance on human rights.
+Detainee Healthcare,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1.4.1.11.1,The ability to provide healthcare and safeguard the health of detained personnel in compliance with the provisions of the Geneva Convention and our nation’s stance on human rights.
+Detainee Medical Care,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1.4.1.11,The ability to provide medical care and safeguard the health of detained personnel in compliance with the provisions of the Geneva Convention and our nation’s stance on human rights. There are three sub-categories to this topic; presented as three separate tables in Appendix A.
+Determine End State,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.3.1,The ability to unambiguously define a set of desired final objective conditions.
+Determine Opportunities,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.2.3,The ability to assess existing and potential circumstances leading to success.
+Determine Partner Requirements,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.3.1,"The ability to assess, identify, understand and prioritize the specific type and magnitude of partner capability and capacity needed to address shared goals."
+Determine Utility of Foreign Security-Related Capabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.4.2,The ability to understand and evaluate the actions and incentives necessary to access the capabilities of foreign governments and institutions.
+Determine Vulnerabilities,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.2.2,The ability to assess existing and potential weakness.
+Develop and Maintain Facilities,4,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,4.6.1.2,"The ability to execute and integrate combat, general, and geospatial engineering to meet national and JFC requirements to assure mobility, provide infrastructure to position, project, protect, and sustain the joint force, and enhance visualization of the operational area, across the full spectrum of military operations."
+Develop and Maintain Shared Situational Awareness and Understanding,6,0,0,0,1,0,0,0,0,1,0,1,1,1,0,1,1.4.1.8.2,"The ability to access a common operating picture (COP) presenting current and forecast information on adversary and friendly forces, neutral elements, the environment, and geospatial information. This is accomplished through access to both processed and raw data from sensors, analysts and other sources, and through collaborative analysis and assessment of this data. Commanders will ensure that special care and proper procedures be taken in cases involving the transport or transmission of sensitive or classified information. Situational awareness, transformed into knowledge through synthesis, experience and collaboration, will enable situational understanding."
+Develop and Manage Defense Health Program (DHP),7,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,1.4.3.6.1,"The ability to effectively forecast, budget, allocate, execute, analyze, balance, and document funds appropriated by Congress exclusively for the health care needs of our active and retired service members and other eligible beneficiaries and their families in a fiscally responsible manner for helping enhance the efficiency and effectiveness of the overall DoD budget. Effectively managing the DHP requires the means to identify and document financial requirements to support specific and appropriate mission elements of the MHS and meet DoD’s Planning Programming Budget and Execution System (PPBE) objectives as well as Congressional budget justification requirements and includes the ability to project price inflation and apply appropriate commodity inflation rates to properly reflect and justify program growth.. Effective DHP execution requires the ability to allocate and track funding distribution and to coordinate with Government Accountability Office (GAO), the Office of Management and Budget, OUSD (Comptroller), the Defense Finance and Accounting Services (DFAS), and DHP Components and requires mechanisms for analyzing and documenting financial impact of proposed congressional benefit changes and/or language on affected MHS elements. Effectively executing the DHP appropriation includes the ability to review and assess direct and purchased health care data to determine the factors/causes of noticeable changes in health care trends as well as the ability to interact with OUSD (Comptroller), DFAS and DHP Components (Army, Navy, Air Force, JTF CapMed, TMA and the Uniformed Services University of the Health Sciences) to monitor requirements and funding for Overseas Contingency Operations, humanitarian, and other contingency missions to determine whether additional resources may be required to sustain affected MHS elements."
+Develop Assumptions,5,0,0,0,0,1,0,1,1,1,0,0,0,0,0,1,5.3.3.2,"The ability to analyze and build suppositions on the current situation or a presupposition on the future course of events, in the absence of positive proof."
+Develop Cognitive Programs and Products,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8.1.2.2,"The ability to develop credible, U.S. Government interagency-synchronized themes, messages, information and indicators with associated metrics, which will persuade foreign audiences to accept and support the strategies, policies, and operations of the U.S. Government and its partners."
+Develop Courses of Action,5,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,5.3.4,The ability to build and refine sequences of activities to achieve a desired outcome or effect.
+Develop Influential Programs and Products,2,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,8.1.3.2,"The ability to develop U.S. Government interagency synchronized themes, messages, information, indicators, with associated metrics, to cause adversary and competitor audiences to react in a manner that is favorable to U.S. interests."
+Develop Knowledge and Situational Awareness,4,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,5.2.2,"The ability to apply context, experience, and intuition to data and information to derive meaning and value."
+Develop Objective Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.1.1,"The ability to develop and integrate U.S. Government interagency-synchronized themes and messages themes and messages, and associated metrics, for presentation, to clarify, reinforce, or improve domestic or foreign audience’s understanding of the strategies, policies, and operations of the U.S. Government and its partners."
+Develop Objectives,5,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,5.3.3.3,The ability to clearly define decisive and obtainable goals towards which every operation should be directed in accomplishment of the mission.
+Develop Options,5,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,5.3.4.3,The ability to create a potential or series of potential activities or actions to achieve the assigned objectives.
+Develop Partnership Agreements,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.1.2,"The ability to negotiate and establish partnership agreements based on prioritized relationships, containing measurable objectives, with domestic and foreign institutions, organizations, and governments."
+Develop Strategies (P&D),2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2.1.2,"The ability to determine the best approach to collect, process, exploit, analyze, and disseminate data and information to address requirements and predict outcomes."
+Develop Strategy,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.3,The ability to create a framework that synchronizes and integrates the resources available to achieve a desired outcome or effect.
+Developmental Engineering,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,9.4.3,The ability to evaluate integrated technologies in a realistic operating environment to assess performance or cost reduction potential of advanced technology.
+Developmental Testing,2,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,9.4.3.2,"The ability to execute a program of record responding to a validated materiel capability need through application of systems engineering, including Integrated System Design and System Capability and Manufacturing Process Demonstration."
+DIAGNOSIS,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.3,"The ability to identify a medical or dental condition, disease, or injurDiagnostic procedures are complimentary to relevant history, signs and symptoms, and results of physical examination."
+Direct,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,5.5,The ability to employ resources to achieve an objective.
+Directed Energy (ML),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.1.8,The ability to minimize the effects of directed energy attacks which have the potential to kill personnel and destroy physical assets.
+Directed Energy (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.7,The ability to minimize the effects of directed energy attacks which do not have the potential to kill personnel and destroy physical assets.
+Directory Services,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.2.3.7,"The ability to provide, operate, and maintain a global directory of users, to include directory synchronization with other lower-level systems and information integrity."
+Disability Counseling and Coaching,4,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1.4.2.6.1,"The ability to provide severely injured or ill service members and families access to a network of professional counseling, information and resources that provide personal support and assistance from injury to reintegration, separation or medical retirement."
+Disability Evaluation,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1.3.2.3,The ability to provide comprehensive assessment of a Service member's fitness for continued service and recommend a disability disposition or return to duty recommendation.
+Disease Management:,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.6.1,"The ability to provide an organized effort to achieve desired healthcare outcomes in populations with prevalent, often chronic, diseases or conditions for which healthcare practices may be subject to considerable variation."
+Disposal of Installation Assets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.1.5,"The ability to provide functional real property installation assets with utilities – energy, water, and wastewater; contract and real property management; pollution prevention; and essential services throughout natural or manmade disasters."
+Disseminate Information,4,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,5.2.1.3,The ability to present the refined information to enable comprehension.
+Distill Information,4,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,5.2.1.2,"The ability to individually and collectively comprehend the implications of the character, nature, or subtleties of information about the environment and situation to aid decision-making."
+Distill Information,3,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,5.2.1.2,The ability to filter and refine the discovery and selection of information.
+Distributed Computing,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.2.2,"The ability to provide a virtual computing capability to an end user or application through federation of distributed, location-independent computing resources."
+Doctrine,6,0,1,0,1,1,0,0,1,1,0,0,1,0,0,0,1.2.4,The ability to provide fundamental principles that guide the employment of US military forces in coordinated action toward a common objective and serves to make US policy and strategy effective in the application of US military power.
+Document Problem Elements,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.1.2,The ability to produce a description of the situation based on the analysis of the guidance and synthesized information.
+Documents & Media (HBC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.4.5,"The ability to obtain information from acquired, seized or open-sourced documents and electronic media."
+DODIN Capabilities,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1,"The actions taken to design, build, configure, secure, operate, maintain, and sustain DOD communications systems and networks in a way that creates and preserves data availability, integrity, confidentiality, as well as user/entity authentication and non-repudiation."
+Economic Adjustment Activities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.1.6,"The ability to assess, preserve, maintain, and repair any built, natural, and cultural installation assets. Includes regular surveys and inspections, and measures to comply with environmental and conservation requirements."
+Educating,5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1.2.3,"The ability to convey general bodies of knowledge and develop habits of mind applicable to a broad spectrum of endeavors to foster breadth of view, diverse perspectives, critical analysis, and abstract reasoning."
+Electromagnetic Pulse (ML),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.5,The ability to minimize the effects of electromagnetic pulse attacks which have the potential to kill personnel and destroy physical assets.
+Electromagnetic Pulse (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.4,The ability to minimize the effects of electromagnetic pulse attacks which do not have the potential to kill personnel and destroy physical assets.
+Electromagnetic Spectrum (ENK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.5,"The ability to execute a specified course of action in or through cyberspace through the employment of a device, computer program, or technique, including any combination of software, firmware, or hardware, designed to create an effect in or through cyberspace."
+Electromagnetic Spectrum (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.8,The ability to minimize the effects of electromagnetic spectrum attacks which do not have the potential to kill personnel and destroy physical assets.
+Electronic Emissions (SC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.1.2,The ability to intercept and derive information from non-communication-related emitter transmissions.
+Electro-Optical (IC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.2.1,"The ability to obtain a visual presentation of any natural or man-made feature, object, or activity derived from the ultraviolet through far infrared electromagnetic spectrum."
+Electro-Optical (MSC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.3.1,"The ability to collect information on phenomena that emit, absorb, or reflect electromagnetic energy in the ultraviolet through infrared spectrum."
+Emergency Services,5,0,0,1,1,0,0,0,1,0,1,0,1,0,0,0,4.7.2.1,"The ability to conduct demolition and disposal activities resulting in the removal of installation assets from the asset inventory by any means, with consideration of the impact to local communities."
+Emergency Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.4.2,"The ability to provide the initial evaluation, diagnosis, treatment, and disposition of any patient requiring expeditious medical, surgical, or psychiatric care. Emergency services may be provided in a hospital-based or freestanding emergency department (ED), in an urgent care clinic, in an emergency medical response vehicle, or at a disaster site."
+End User Services,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.2.4,"The ability to provide client computing devices and management of those devices. Provide mobile voice, data and video devices. Management of those devices, to include pagers, cell phones, wireless/cellular enabled Personal Data Assistants (PDAs), or other end user devices used by individuals to access information, applications and services."
+Engage Partners,3,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,8.2.1.1,"The ability to integrate and synchronize interaction with selected domestic and foreign institutions, countries, or populations under available identified and aligned authorities and resources authorities to facilitate development of formal or informal relationships."
+Engagement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2,"The ability to secure areas beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)."
+Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6,The ability to provide coordinated and synchronized contracted support being executed in a designated operational area in support of the Joint Force.
+Enhance Mobility,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.2.2,"The ability to integrate land use, bills of material and forecasts, and construction requirements that facilitate project execution and developing infrastructure and facilities."
+Enhance Partner Capabilities and Capacities,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.3.2,The ability to assess and facilitate the development of partner capabilities and capacities in a manner that takes into account the partner's ability to sustain them and advances partnership goals and mutual interests.
+Enhance Physiological Capability,5,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,1.4.1.1.5,"The ability to improve DoD expeditionary personnel success within the physiological domain to decrease brain injury (neuroprotection), manipulate metabolic processes (related to water intake, nutrition, and waste production), and enhance the ability to withstand trauma and maintain enhanced performance."
+Enhance Psychological Resilience,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.1.8,"The ability to enhance DoD expeditionary forces’ resistance to, and recovery from, the emotional outcomes of combat, adversity, and trauma; prevent psychological dysfunction; and strengthen protective factors to stress and negative events. This includes activities that support the early detection and management of combat and operational stress reactions (COSR) in order to preserve mission effectiveness and warfighting capabilities and mitigate the adverse physical and psychological consequences of exposure to severe stress. In the deployed setting, the MHS will support the Military Departments’ implementation of combat and operational stress control (COSC) policies and programs to enhance readiness, contribute to combat effectiveness, enhance the physical and mental health of deployed military personnel, and prevent or minimize adverse effects associated with combat and operational stress."
+Enhance Survivability,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.2.4,"The ability to locate and neutralize the full range of enemy and friendly explosive hazards that may impede routine operations, decrease mobility or present a threat to force protection. It includes the capability to locate, avoid, and neutralize hazards in concert with mounted or dismounted maneuver (breach) or as part of tactical/operational movement (route clearance)."
+Enhance Warfighter Learning  Communications and Decision-making,6,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1.4.1.1.4,"The ability to enhance individual and team learning/training with high retention of knowledge/skills, individual and team communication, situational awareness (SA), and decision-making."
+Enhance Warfighter Sensory  Cognitive  and Motor Capabilities,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.1.3,"The ability to enhance and sustain sensory capabilities; manage/control sensory inputs; enhance and sustain cognitive performance; and monitor, assess, and use the physical and mental status of individual Warfighters and units to enhance commanders' decision-making.  This capability focuses on physiological/metabolic and neurocognitive processes underlying sensory, cognitive and motor capabilities. It involves enhancing, controlling, or sustaining sensory capabilities. Sustainment aims at maintaining baseline sensory capability in other-than-optimal operational environments involving, for example, laser threats, anti-vision weapons, or conditions resulting in short and long term hearing loss. Enhancements include, but are not limited to, recognition of sensory stimuli beyond unaided levels (i.e., vision and hearing abilities enhanced beyond enemy capabilities but without loss of normal aspects such as visual field, acuity, and depth perception). Improved capabilities are especially needed under austere conditions such as fog, smoke, low light, or excessive sensory inputs (e.g., glare, explosions, engine noise, etc.).  Cognitive capability enhancement includes augmenting perception, comprehension, mental model formulation, and future projection to maximize performance and decision-making. Failure can lead to task saturation, information overload/inadequacy, stress, and errors.  Motor capability enhancement can include sustaining baseline physical capability for extended durations in other-than-optimal operational environments (e.g., when degraded from injury, illness or incapacitation as a result of operational exposures); increasing abilities above baseline levels for speed, endurance, strength, and faster than normal physical conditioning; and providing commanders the ability to assess/utilize/incorporate the real time physical and mental status of s DoD expeditionary personnel in their decision-making processes."
+Enhanced Language  Regional EXpertise and Culture (LREC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.1.3,"The ability to understand the history, language, cultures, beliefs, social structures, politics, and economics of allies, partners, and foreign population to effectively execute missions across the spectrum of military operations."
+En-route Care,6,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1.4.1.5.3,"The ability to provide continuation of healthcare for critically injured/ill Warfighters accompanied by trained medical providers while being moved to increased medical care capabilities or to a site for final disposition or RTD (JP 1-02). En-route care, which is a shared capability with casualty management, requires detailed coordination, standardization and synchronization. This includes the capability to direct and manage a PM safety program which allows for evaluation of the quality of care standards and process improvement."
+Ensure the Physical and Mental Health of the Redeployed Force,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.2.4,"The ability to evaluate and predict physical and mental health effects on a redeployed Warfighter (routine screening and follow-up of immediate and long-term health threats); communicate effective implementation strategies to decision-makers; and provide effective communication and accountability systems enabling contact between commanders, their injured Warfighters, and families."
+Enterprise Application Software,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6.2.3.8,The ability to provide productivity enhancement software made available to all users.
+Enterprise Architecture,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,9.2.5,"The ability to conduct reviews with appropriate rigor to improve and support policy development, decision making, management, and administration of DOD capabilities, programs and activities."
+Enterprise Messaging,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.2.3.6,"The ability to perform electronic messaging between users and organizational entities across the enterprise, including providing customer support."
+Enterprise Services,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2,The ability to provide to all authorized users awareness of and access to all DOD information and DOD-wide information services.
+Enterprise-Wide Assessment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.2.3,"The ability to translate, validate and prioritize capability and capacity requirements or gaps and manage risk to support DOD strategy."
+Environmental,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.4.3.1,"Occupational and environmental health surveillance in garrison and deployed environments will ensure threat and hazard sampling, detection, identification, quantification, risk assessment, and follow-up documentation are performed."
+Establish and Maintain Unity of Effort with Mission Partners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.1.1,"The ability to receive, store, prepare and serve nutritious meals, authorized enhancements, and supplements in a sanitary dining facility at an enduring location or afloat based on Service ration cycle and mix, with the ability to project meals to disbursed populations."
+Establish Collaboration Policies,9,1,0,0,0,1,1,0,1,1,0,1,1,1,0,1,5.1.3.1,"The ability to understand, select and synthesize contributing functional competencies to achieve optimized action."
+Establish Collaborative Procedures,9,1,0,0,0,1,1,0,1,1,0,1,0,1,1,1,5.1.3.2,"The ability to provide command priorities, intent, guidance, and standards to planning, execution, and assessment."
+Establish Collective Meaning (Collaboration),7,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0,5.2.3.2,The ability to form collective perspective of the situation.
+Establish Commander's EXpectations,6,0,1,0,1,1,0,0,1,1,0,0,0,0,0,1,5.1.2.5,The ability to determine existing and future functional competencies.
+Establish Intent and Guidance,8,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,5.4.4,"The ability to formulate a concise expression of purpose, methods, acceptable risk, and desired end state."
+Establish Lines of Communications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.1.3,"The ability to employ engineering capabilities and activities, other than combat engineering, that modify, maintain, or protect the physical environment. Examples include: the construction, repair, maintenance, and operation of infrastructure, facilities, lines of communication and bases; terrain modification and repair; and selected explosive hazard activities."
+Establish Measures of Effectiveness,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.3.2,"The ability to establish criteria used to assess changes in system behavior, capability, or operational environment that are tied to measuring the attainment of an end state, achievement of an objective, or creation of an effect."
+Establish Measures of Performance,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.3.1,The ability to establish criteria or conditions used to measure task accomplishment.
+Establish Metrics,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.3,The ability to establish objective criteria to assess performance and results.
+Establish Rule Sets,8,0,0,0,0,1,0,1,1,1,1,1,1,1,0,0,5.4.3,The ability to construct directives that delineate circumstances and limitations for actions.
+Establish Selection Criteria,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.5.1,The ability to define the valuation metrics to compare COAs.
+Establish/Adapt Lines of Communication and Relationships to Enable Global / Regional Collaboration of all Medical Partners,6,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1.4.1.7.3,"The ability to quickly establish or adapt command structures across the force and within the staff, tailored to the mission, to create the processes that will enable horizontal and vertical collaboration."
+Evaluate Courses of Actions,6,0,0,0,0,1,0,0,1,1,1,1,0,1,0,0,5.3.5.2,"The ability to assess the strengths and weaknesses of each proposed COA (e.g., exercises, wargames, modeling and simulation, etc)."
+Evaluate Operational Environment,6,0,0,0,0,1,0,1,1,1,1,1,0,0,0,0,5.3.2.1,The ability to assess the circumstances and characteristics of a situation or environment.
+Evaluation (AP),5,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,2.4.2,"The ability to identify, classify and verify information associated with time sensitive objectives enabling further analysis or action."
+EXercise Medical Management of Seamless Interoperable Medical Operations,4,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1.4.1.7.4,The ability to exercise authority and direction by a properly designated commander over assigned and attached forces in order to seamlessly accomplish its mission.
+EXercising,5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1.2.2,"The ability to plan, prepare, execute and assess maneuvers or simulated operations to validate training, conduct mission rehearsal, or evaluate capabilities."
+EXperimentation,3,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1.2.7,"The ability to conduct an iterative process for developing and assessing concept-based hypotheses to identify and recommend the best value-added solutions for changes in doctrine, organization, training, materiel, leadership and education, personnel, and facilities and policy required to achieve significant advances in future operational capabilities."
+EXplosives (ML),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.6,The ability to minimize the effects of explosive attacks which have the potential to kill personnel and destroy physical assets.
+EXplosives (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.5,The ability to minimize the effects of explosive attacks which do not have the potential to kill personnel and destroy physical assets.
+Facilities Support,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,4.7.1.2,"The ability to provide enduring bases and installations with the assets, programs, and services necessary to support US military forces."
+Field Maintenance,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2,The ability to change an item such that one or more measurable characteristics is altered
+First Responder Care,8,0,1,1,1,0,1,0,0,1,0,0,1,1,1,0,1.4.1.6.1,"The ability to provide initial medical care at, or near, the point of injury by the individual or medical and/or non-medical personnel. This may include preparing the casualty for transportation to the next medical capability, as required."
+FiXed Target (EK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1,The ability to maneuver to secure within the interdependent network of information technology infrastructures and the data within them.
+FiXed Target (ENK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.1,The ability to kinetically engage targets under water at a depth of 40-200 feet.
+Food Service,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.1,"The ability to prove, test, evaluate, inspect, and rework ammunition or ordnance items as required for retaining their desired capability."
+Force Application,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,"The ability to present, distribute, or make available intelligence, information and environmental content and products that enable understanding of the operational/physical environment to military and national decision-makers."
+Force Configuration,10,0,1,1,1,0,1,1,1,1,1,0,0,1,0,1,1.1.2,"The ability to take doctrine, organization, training, material, leadership and education, personnel, and facilities (DOTMLPF) requirements and translate them into programs and structure to accomplish the missions and functions required by the Secretary of Defense."
+FORCE HEALTH PROTECTION,6,0,0,1,1,0,1,1,0,0,1,0,1,0,0,0,1.4.1,"The ability to promote, improve, conserve and restore the mental and physical wellbeing of deployed forces."
+Force Management,13,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1.1,The ability to integrate new and existing human and technical assets from across the Joint Force and its mission partners to make the right capabilities available at the right time and place to support National security.
+Force Preparation,5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1.2,"The ability to develop, enhance, adapt and sustain the total force to effectively support National security."
+Force Support,12,0,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,"The ability to establish, develop, maintain and manage a mission ready Total Force."
+Foreign Instrumentation (SC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.1.3,The ability to intercept data from foreign equipment and control systems.
+Forward Resuscitative Care,7,0,1,1,1,0,1,0,0,0,0,0,1,1,1,0,1.4.1.6.2,"The ability to provide expedient healthcare at the point of injury to salvage life, limb, or eyesight and relieve pain. This care includes stabilizing the patient in preparation for transportation to the next higher medical capability, as required."
+Forward Unit Feeding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.1.2,The ability to provide services and functions essential to the technical management and support of the joint force.
+Foster Organizational Collaboration,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.1.3,The ability to assign and refine appropriate decision authorities and accountability between leaders and subordinates.
+Gap Crossing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.1.1,"The ability to enable the planning, organizing, staffing, controlling, and leading of OCS efforts required to meet the Joint Force Commander's objectives."
+General Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.1,The ability to oversee and integrate of contractor personnel and associated equipment
+Geophysical (MSC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.3.3,"The ability to detect phenomena and gather information transmitted through the geophysical area of the earth, oceans, and surrounding atmosphere, including man-made objects."
+Geospatial Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.3,"The ability to enable both mounted and dismounted movement and maneuver where and when desired without interruption or delay through complex terrain (ranging from littoral to mountainous areas), built up areas (cities, towns, and villages to include subterranean structures), and complex manmade and natural obstacles to achieve the commander’s intent without loss of speed or flexibility."
+Global Access Engineering,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.1.4,"The ability to enable joint forces to overcome breaks or openings in terrain (dry or wet, natural or man-made) by providing a system of temporary and permanent crossing techniques and equipment."
+Global Force Management,10,0,1,0,1,1,1,1,1,1,0,0,1,1,0,1,1.1.1,"The ability to align force apportionment, assignment, and allocation methodologies in support of the National Defense Strategy and joint force availability requirements; present comprehensive insights into the global availability and operational readiness of U.S. military forces; globally source joint force requirements; and provide senior decision makers a vehicle to quickly and accurately assess the impact and risk of proposed allocation, assignment and apportionment changes. (From Annex A (Glossary) “Global Force Management Guidance FY 2005”)"
+Global Patient Movement,11,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1.4.1.5,"The ability to evacuate injured and ill personnel with appropriate enroute carThis includes all activities related to CASEVAC, MEDEVAC, aeromedical evacuation (AE), enroute care, patient movement planning, medical regulating, patient staging facilities, patient movement items, and patient in-transit visibilitAlso included are all activities related to maintaining DODs Global Patient Movement Network."
+Global Posture EXecution,8,0,0,1,1,0,0,1,1,1,1,0,1,1,0,0,1.1.3,"The ability to develop a global network of host-nation relationships, activities, and footprint of facilities and forces by refining operational requirements for, implementing, and sustaining posture changes."
+Graduate Medical Education,4,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1.4.3.5.6,"The ability to plan, conduct, and properly document graduate medical education obtained while serving as an intern, resident, or fellow after graduation from medical school. Graduate Medical Education must provide a mechanism for physicians to obtain advanced medical education necessary to achieve specialty board eligibility and certification through accredited institutions and organizations sanctioned by national bodies."
+Harden Key Infrastructure and Facilities,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4.6.1.6,"The ability to assess, construct, repair, and improve routes, railroads, intermodal facilities, and supporting infrastructure to allow the speedy flow of personnel, supplies, and equipment into theater and forward to tactical units."
+Hardened (EKFSA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.2.1,The ability to kinetically engage targets that are not protected against attack.
+Hardened (EKFSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.1.1,The ability to kinetically engage a geographic area or object that is unable to move.
+Hardened (EKFU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.2.1,"The ability to kinetically engage targets reinforced (with armor, concrete, dirt, etc.) to protect against blast, heat, or radiation."
+Hardened (EKMSA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.2.1,The ability to kinetically engage moving targets that are not protected against attack.
+Hardened (EKMSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.1.1,The ability to kinetically engage moving targets in the region beginning at the lower boundary of the Earth’s ionosphere (approximately 50 KMs) and extending outward.
+Hardened (EKSSA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.2.1,The ability to kinetically engage targets that are not protected against attack.
+Hardened (EKSSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.1.1,The ability to kinetically engage an object that could move but is currently not moving.
+Health Facility Construction,4,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1.4.3.8.1,"The ability to manage and execute the Defense-Wide Medical Military Construction Program and the DHP Sustainment, Restoration and Modernization (SRM) Construction Program. Health Facility Construction requires the ability to interpret a user’s planning and program requirements into written specifications and detailed construction drawings in accordance with applicable laws, codes and standards required to build and sustain health facilities, ensure public safety and ensure health mission accomplishment."
+Health Information Performance Assessment,3,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1.4.3.7.2,"The ability to use the knowledge from and measure strategic value (in the eyes of the relevant user community) of fielded health information products, systems, and services to enable portfolio governance, balance investment decisions, improve health care business operations, and outcomes in health areas at personal, population, and readiness levels."
+Health Information Technology Requirements and Development,3,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1.4.3.7.1,"The ability to develop and execute an IM-IT strategic plan composed of prioritized needs, the validated requirements necessary to build and effectively use information technology, and the sequencing plan necessary for operational success. The ability includes understanding the workflows, data needs, and human-to-system interfaces to improve health care outcomes as well as the ability to identify, validate, plan, resource, develop, test, produce, and sustain IT products and services that meet validated MHS requirements."
+Health Professional Degree Granting Programs,4,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1.4.3.5.5,"The ability to plan, conduct, and properly document formal education programs that result in the issuance of health care professional degrees to students who successfully complete all prescribed program requirements. Requirements for Health Professional Degree Granting programs must be based upon contingency plans and projected operations in support of the Department’s global health care mission. In additional to providing a mechanism for health professional degree issuance, programs must understand the uniqueness of military medicine. Health Professional Degree granting programs will maintain compliance with governing health education regulations and standards."
+Health Quality and Safety,7,1,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1.4.2.1.1,"The ability to gain and maintain awareness of advances in proven healthcare delivery practices and technologies; promote infusion into the scope of care; and use measurable approaches with outcome monitoring to enhance the quality of health and attain desired health outcomes. Safety includes the avoidance of unsafe events, or prevention, or amelioration of adverse outcomes or injuries stemming from the processes of healthcare. Health safety also involves the ability to establish operational systems and processes that minimize the likelihood of errors and maximize the likelihood of intercepting them so that they will not occur. Health quality and safety includes quality assurance, quality improvement, and risk management."
+Health Readiness,3,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1.4,Joint Medical Research and Development
+HEALTH SERVICE DELIVERY,12,1,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1.4.2,The ability to provide acute or long-term primary or specialty care capabilities to all eligible beneficiaries outside the theater in either the direct or purchased care system.
+HEALTH SERVICES CONTRACT DEVELOPMENT,5,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1.4.3.1,"The ability to identify, accurately assess, and develop a plan to acquire evidenced-based and outcome-focused health services and capabilities which are delivered in a ?patient-centered fashion and are defined in the military health benefit, which are not readily available via organic military medical capabilities or are more cost effectively provided by health industry partners."
+HEALTH SERVICES CONTRACT MANAGEMENT,7,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,1.4.3.2,"The ability to manage administrative activities associated with contracts (e.g., invitations to bid, bid evaluation, award of contracts/task orders, contract implementation, measurement of work completed, verification and computation of payments and contract closeout)."
+HEALTH SYSTEM SUPPORT,11,0,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1.4.3,"The ability to perform health care administrative and support related functions to sustain and continuously improve MHS mission effectiveness through focused development of people, technology, infrastructure, and joint organizational culture.  Chapter 4 provides definitions for the capabilities required for operating in the manner described in the central and supporting ideas of Chapter 3. The following functional capability areas describe the capabilities required to support the MHS in its delivery of effective and integrated health support to the DoD and all designated beneficiaries. These capabilities will be further refined into tasks, conditions and attributes and standards in Appendix B. HSS capabilities are interdependent with FHP and HSD capabilities. They enable the seamless delivery of health care and improve health outcomes in both garrison (home-based) and expeditionary environments."
+Housing Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2.4,"The ability to protect and rescue people, facilities, aircrews, aircraft and other assets from loss due to accident or disaster."
+Human Based Collection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.4,"The ability to acquire information from human resources, human-derived data, and human reconnaissance assets."
+Human Capital Management,8,0,1,0,1,1,1,0,1,1,0,0,1,0,0,1,1.3,"The ability to ensure, within the life cycle management of total force human resources, the availability of personnel equipped with required skill sets and capabilities to achieve mission success."
+Human Intelligence (HBC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.4.1,The ability to gather information for intelligence purposes derived from information collected and provided by human sources.
+Human Performance Optimization (HPO) Capabilities,4,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,1.4.1.1,The ability to extend physical and mental endurance and enhance physiological and psychological resilience to reduce future joint force injury and illness by enhancing physical
+Hygiene Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.4,"The ability to manage and operate power, environmental control, water, and waste systems."
+Ice Service,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.2.4,"The ability to provide and distribute fresh, brackish, or seawater from storage to point of use that has not been treated or disinfected and has not been approved for human consumption."
+Identification of emerging health threats,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.10.1,"Through the active monitoring of the environment and medical surveillance systems, interagency coordination and identification of health threats to military forces and the larger population within the homeland are made in a timely enough manner to affect preventative measures or to allow remediation."
+Identify Aid Requirements,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.2.1,"The ability to assess, identify and understand requirements and required resources to provide assistance to foreign partners or institutions."
+Identify and Understand Adversary and Competitor Attitudes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.3.1,"The ability to identify and understand beliefs, perceptions and reactions of adversary and competitor audiences relevant to the strategies, policies, objectives and operations of the U.S. Government and its partners taking into account the political setting, adversary domestic politics, partner reaction and US domestic considerations."
+Identify Foreign Audience Attitudes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.2.1,"The ability to identify and understand the cultures, social dynamics, and interrelationships and attitudes of relevant foreign audiences regarding their understanding and support of the strategies, policies, objectives, and operations of the U.S. Government and its partners taking into account the political setting, relevant foreign audience international and domestic politics, partner reaction and US domestic considerations."
+Identify Foreign Security-Related Capabilities,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8.2.4.1,The ability to identify and understand the capabilities of governments and institutions that may complement or assist the U.S. in furthering its national security or shared global security interests.
+Identify Misinformation and Disinformation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.1.2,"The ability to identify incorrect, false and/or misleading information (whether intentional or not) that adversely impacts the interests of the United States or its partners."
+Imagery Collection (IC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.2,"The ability to obtain a visual presentation or likeness of any natural or man-made feature, object, or activity at rest or in motion."
+Immunization:,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.1.4,"The ability to protect susceptible patients from communicable diseases by administration of a living modified agent, a suspension of killed organisms, a protein expressed in a heterologous organism, or an inactivated toxin in order to induce antibody formation. Military members will receive all DoD-mandated routine immunizations (currently Hepatitis A/B, tetanus-diphtheria, inactive polio virus, MMR, and seasonal influenza) and all required contingency and travel-related immunizations (e.g. smallpox, anthrax, yellow fever, etc). Additionally, military members and other DoD healthcare beneficiaries will be offered all immunizations recommended (beyond those required by DoD) by the Advisory Committee of Immunization Practices (ACIP). These immunizations and any adverse events will be tracked and monitored. Future emerging/novel infectious disease threats to DoD forces may require rapid vaccine development and production capabilities beyond that which can be generated short-notice in the civilian sector. The DoD should have inherent capabilities that can be activated to meet this national security need."
+Individual human and animal,5,0,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1.4.1.4.3.2,"Monitoring and surveillance of supported populations enables preventive medicine analysis which informs activities to accomplish medical countermeasures which, in turn, prevent casualties and ensure a fit and healthy deployed force (to include US government (USG) owned animals)."
+Influence Adversary and Competitor Audiences,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,8.1.3,The ability to develop and present credible information to competitor and adversary audiences to prompt them to react in a manner that is favorable to U.S. interests.
+Inform Domestic and Foreign Audiences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.1,"The ability to understand, engage, develop and present objective information and to correct misinformation or disinformation to domestic and foreign audiences to improve their understanding of the strategies, policies, and operations of the U.S. Government and its partners."
+Information Categorization (PE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3.2,"The ability to identify, classify and verify information associated with time sensitive objectives enabling further analysis or action."
+Information Management,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,9.3,"The ability to provide oversight and policy guidance to ensure compliance with standards for developing, maintaining, and implementing sound, integrated and interoperable architectures across the Department."
+Information Sharing,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.1,The ability to provide physical and virtual access to hosted information and data centers across the enterprise and with mission partners based on established data standards.
+Information Transport,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.1,The ability to transport information and services via assured end-to-end connectivity across the NC environment.
+Infrastructure (MTSL),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.3.2,The ability to secure the region beginning at the lower boundary of the Earth’s ionosphere (approximately 50 KMs) and extending outward.
+Inpatient Diagnostic Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.3.3,The ability to apply diagnostic examination and capabilities that require or support an admission to a hospital. Examples are diagnostic laboratory and radiological services before or after inpatient surgery.
+Inpatient Non-Surgical Treatment,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.7,The ability to provide all non-surgical medical care and services to treat patients admitted to a hospital for at least one overnight stay.
+Inspect,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.1,"The ability to work collaboratively with all partners and customers within a networked JSE, i.e., net-centric environment, to attain real time global visibility of requirements, total inventory, resources and capabilities, share knowledge and information, conduct integrated joint supply operations and performance reviews, and when required, coordinate adjustments to the end-to-end supply process and capabilities to optimize performance for the JFC."
+Inspect,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.1,"The ability to prove, test, evaluate, inspect, and rework ammunition or ordnance items as required for retaining their desired capability."
+Inspections,3,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,9.1.2.2,The ability to analyze the control of DOD resources to ensure compliance and to provide recommendations for improvement.
+Installation Feeding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2.9,"The ability to perform and provide port services including ship movements, berth allocations, magnetic silencing, cargo handling, transient vessel support, and waterborne spill response at DOD and commercial seaports."
+Installation Safety,4,0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,4.7.2.2,"The ability to provide and manage activities to assist communities impacted by changes in the Defense footprint caused by base closures, realignments, expansions, or significant changes in Defense industry employment. Includes assessing economic hardships, evaluating alternatives for local recovery, identifying resource requirements, and assisting in creating action plans."
+Installation Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2,"The ability to perform the restoration, modernization, and replacement of installation assets to meet tenant requirements and comply with safety and environmental laws to include cleanup of contamination from hazardous substances, pollutants, and contaminants."
+Integrate Capabilities,9,0,1,0,0,1,1,1,1,1,0,1,0,0,1,1,5.1.2.4,The ability to organize forces to best accomplish the mission.
+Integration (AP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4.1,"The ability to identify, assimilate and correlate relevant information from single or multiple sources."
+Intelligence  Surveillance and Reconnaissance (ENKES),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.5.4,"The ability to disrupt, deny, degrade or destroy an adversary’s use of position, navigation and timing sources."
+Intensive Care,6,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,1.4.2.4.8,"The ability to provide comprehensive and highly specialized, life-saving methods and equipment with continuous monitoring and care to seriously ill or injured patients with specially trained provider, nursing, and technical staff."
+Interpretation (AP),5,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,2.4.3,"The ability to integrate, evaluate, analyze, and interpret, information from available sources to develop intelligence and forecast/predict the future state to enable situational awareness and provide actionable information."
+Intuit,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,5.4.5,The ability to make instinctive assessments and preemptive decisions to adjust to and/or shape change.
+Inventory Management,3,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,4.2.2,"The ability to control, conduct and protect JDDE operations and accomplish necessary JDDE capability development activities to operate across the strategic, operational,"
+Investigations,3,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,9.1.2.3,"The ability to perform inspection of DOD and contracted personnel and facilities to assess operational readiness, security and reliability."
+Issue Alerts,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.1.6,"The ability to forewarn military decision makers, operating location population and civilian authorities of immediate threats and other dangers."
+Issue Estimates,3,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,5.5.1.1,"The ability to provide current situation, development, or trend analysis and interpret the significance, appraise the future possibilities and forecast the prospective results of the various actions that could be undertaken (DOD Dictionary)."
+Issue Orders,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.2.3,The ability to provide directives.
+Issue Plans,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.2.2,The ability to provide relevant plans.
+Issue Priorities,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,5.5.1.2,The ability to provide prioritized elements to all required organizations and assets.
+Issue Rule Sets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.5.1.3,The ability to provide all directives applicable to subordinate organizations and assets.
+Joint and Service Medical Education and Training,7,0,1,1,0,0,1,1,0,1,0,0,1,0,0,1,1.4.3.5,"The ability to provide effective, relevant, dynamic, capabilities-based training for the joint and service medical forces in support of national security requirements across the full range of military operations. Joint and service medical education and training will provide the common framework for preparing medical personnel for current and future operations, thereby enhancing joint medical interoperability and deployability. Key components of a successful program will include an effective joint and service-specific military health care personnel education and training process; an adaptive and efficient environment in which to support military medical education and training; an effective joint and service-specific medical leader preparation process; and transformed military medical readiness training that enhances integrated operations and the ability to leverage recruiting and retention incentive programs to ensure total medical force capability. Additionally, there must be the ability to plan, conduct, and properly document advanced professional education obtained by non-physician privileged providers while serving as an intern, resident, or fellow after completion of graduate school."
+Joint Medical Logistics and Infrastructure Support (JMLIS),5,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1.4.1.12,"The ability to orchestrate and synchronize the provision of integrated medical logistics capabilities for HR support to the joint force in a designated operational area. This involves the ability to tailor medical logistics capabilities to the needs of the supported force and mission in order to ensure the right medical materiel is available to supply/sustain FHP capabilities and at the right place and time, enabling uninterrupted health care throughout the entire life cycle of joint forces, including pre-deployment, deployment, and red-deployment. The primary functions of JMLIS include:"
+Kinetic Means,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1,The ability to secure areas below the surface of a body of water.
+Laboratory Diagnostic Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.3.4,"The ability to provide chemical, hematological, microscopic, microbiologic, immunologic, or pathologic study of secretions, discharges, blood, or tissue sections to help diagnose a medical or dental condition or disease."
+Land (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.3,The ability to move to a position of advantage in all environments in order to employ force.
+Land (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.3,The ability to place forces at a position of advantage in all environments.
+Land (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.3,"The ability to move to a position of advantage in all environments in order to affect the behavior, capabilities, will, or perceptions of partner, competitor, or adversary leaders, military forces, and relevant populations."
+Land (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.3,"The ability to control or deny (destroy, remove, contaminate, or block with obstacles) significant areas, with or without force, in the operational area whose possession or control provides either side an operational advantage."
+Launch Support Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2.8,"The ability to provide airfield services including weather, air traffic control, terminal/special use airspace management, airfield and flight management, cargo and passenger services, and transient aircraft support."
+Legal Matters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.1.1.1,"The ability to provide advice on and manage all matters and services (domestic and international) performed within, or involving DOD to establish and oversee DOD policies and standards on matters including but not limited to Legal, Legislative, and the Media."
+Legislative Matters,5,0,0,0,0,1,0,1,0,1,0,0,1,0,0,1,9.1.1.2,"The ability to support decision makers on all civil, acquisition, fiscal, military, international, and operational law issues."
+Lessons Learned,10,1,1,1,1,1,0,0,1,1,0,1,1,0,0,1,1.2.5,The ability to obtain results from an evolution or observation of an implemented corrective action that contributed to improved performance or increased capability or from an evaluation or observation of a positive finding that did not necessarily require corrective action other than sustainment.
+Leverage Capacities and Capabilities of Security Establishments,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,8.2.4,The ability to stimulate foreign governments and institutions to employ capabilities that complement or assist the U.S. in furthering its national security or shared global security interests.
+Leverage Mission Partners,6,0,0,1,1,0,0,0,0,1,1,0,1,1,0,0,1.4.1.7.2,"The ability to achieve and maintain unity of effort and leverage the capabilities of mission partners to coordinate, collaborate, influence, persuade, negotiate and diplomatically achieve synchronization of efforts according to shared information and plans."
+Light Detection and Ranging (IC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.2.2,The ability to obtain a visual presentation produced by recording pulsed laser light reflected from a given object.
+Line of Sight,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.1.2.1,The ability to exchange data or information via electromagnetic spectrum within line of sight.
+Localized Communications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.1.1.1,"The ability to disseminate, transmit, or receive voice, data, video and integrated telecommunications via wire or optical means within the confines of a platform or an installation (e.g., command post, post, camp, station, base, installation, headquarters, or Federal building)."
+Logistics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,"The ability to disrupt, deny, degrade or destroy an adversary’s use of signals technology."
+Logistics Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4,"The ability to change an item such that one or more measurable characteristics is altered to improve equipment performance, increase reliability, improve supportability, or enhance safety. Modify includes conversion of items to change their mission, performance, or capability."
+Long-Haul Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.1.1.2,"The ability to disseminate, transmit, or receive voice, data, video and integrated telecommunications via wire or optical means to, from and between platforms and/or installations (e.g., command post, post, camp, base, stations or federal buildings)."
+Maintain,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3,"The ability to source routine and surge requirements from the U.S. industrial base, ensure global supply availability and the capacity to support operations involving U.S., IA, PVO, and MN partners engaged in ever changing military activities around the globe."
+Manage DHP Military Personnel by End Strength,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1.4.3.6.3,"The ability to receive, analyze, and staff the military services to comply with manage DHP Military Personnel (MilPers) end strength prescribed in strategic resource planning and budgeting guidance. This effort includes either increasing recruiting and training pipelines to grow projected end-strength requirements for needed skills, or designing personnel strategies to draw down MilPers end strengths where needed to meet planned staffing needs. Managing DHP MilPers requires a comprehensive understanding of Civilian Personnel Resources and the ability to assess Civilian Personnel Resources to evaluate and forecast Defense Health Program civilian personnel full-time equivalent requirements and associated personnel costs."
+Manage Global Supplier Networks,5,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,4.2.3,"The ability to identify and select supply sources, schedule deliveries, receive, verify, and transfer product and authorize supplier payments. It includes the ability to see and manage inventory levels, capital assets, business rules, supplier networks and agreements (to include import requirements) as well as assessment of supplier performance."
+Manage Patient Movement Items (PMIs),4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.1.5.4,"The ability to manage medical equipment, supplies, and PMIs required to support PM. This includes activities related to managing theater resources, preventive maintenance and repair, and supporting information systems."
+Manage Pay for Performance and Prospective Payment Programs,4,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1.4.3.6.4,"The ability to create new MHS cost models and use associated efficiencies to form a?reserve fund to reward innovation and exemplary medical performance; align systemic and health care provider team performance incentives; improve the ability to analyze, forecast, and partially fund future workload projections to drive accountability for the health care needs of eligible and enrolled populations. These programs require the development of concepts and algorithms for funding current and future performance and the abilities to: coordinate processes for review, approval of proposed strategy and approaches and the ability to analyze impacts from the strategy and approaches to accomplish intended outcomes."
+Manage Risk,5,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0,5.4.1,The ability to recognize and balance the likelihood and consequences of undesired effects with the desired outcomes/effects.
+Manage Supplies and Equipment,4,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,4.2.1,The ability to deliver and retrograde non-unit-related personnel between point of origin and point of need.
+Manage the Medicare-Eligible Retiree Health Care Fund,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1.4.3.6.2,"The ability to effectively forecast, budget, allocate, execute analyze, balance and document funding required to pay for Medicare-eligible retiree health care. Furthermore, it is the ability to actuarially compute the Fund’s health care liability and develop the annual cost contributions into the Fund from the Department of Treasury and the uniformed services."
+Manage Warfighter Fatigue,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.1.1,"The ability to evaluate and monitor fatigue, predict and manage effects on Warfighter performance, and develop methods for countering the effects of fatigue."
+Manage Warfighter Performance,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.1.7,"The ability to provide a healthy and fit force through effectively predicting, monitoring, evaluating Warfighter performance, and taking appropriate actions to counter Warfighter performance decrement. This includes the ability to observe and measure factors, behaviors, and psycho-motor indicators (from both intrusive and non-intrusive means) for real-time evaluation of performance decrement in self and others relevant to influences upon mission effectiveness. Countermeasures could be pharmacological or non-pharmacological in nature to maintain wakefulness, mental acuity, physical performance, psychomotor performance and decision-making ability during varying conditions."
+Maneuver,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1,"The ability to send collected data directly to processing, exploitation analysis, production and visualization systems, leveraging both Net-Centric information transport and intelligence-controlled systems."
+Maneuver to Engage (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1,"The ability to provide authorized customer access to data and products, leveraging both Net-Centric computing infrastructure and intelligence-controlled systems."
+Maneuver to Influence (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3,"The ability to maneuver to insert beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)"
+Maneuver to Insert (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2,"The ability to maneuver to engage beneath the surface of the earth (bunkers, basements, tunnels, caves, etc.)"
+Maneuver to Secure (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4,"The ability to maneuver to influence beneath the surface of the earth, (bunkers, basements, tunnels, caves, etc.)."
+Maneuvering (PKA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.1.1,"The ability to defeat kinetically delivered attacks that can change speed, direction or altitude based on internal or external guidance."
+Maneuvering (PKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.2.1,The ability to defeat kinetically delivered attacks that can change speed or direction based on internal or external guidance.
+Maneuvering (PKSS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.3.1,"The ability to defeat kinetically delivered attacks that can change speed, direction or depth based on internal or external guidance."
+Manning,6,1,1,1,0,0,1,0,0,1,0,0,0,0,0,1,1.3.2.1,"The ability to recruit, retain, sustain, assign, separate and retire members of the Total Force."
+Maritime (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.4,The ability to maneuver to engage in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth’s ionosphere (approximately 50 KMs).
+Maritime (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.4,The ability to maneuver to insert in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth’s ionosphere (approximately 50 KMs).
+Maritime (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.4,The ability to maneuver to influence in the region beginning at the upper boundary of the land or water and extending upward to the lower boundary of the Earth’s ionosphere (approximately 50 KMs).
+Maritime (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.4,The ability to provide security to individuals in an area.
+Master Facility Design,8,0,0,1,1,0,0,1,1,1,1,0,1,0,1,0,4.6.1.7,"The ability to enable theater access by determining and documenting infrastructure capacities, in-situ soils, hydrology, and environmental conditions, and forecast and mitigate limitations to enable deployment and improve throughput capacities."
+Materials (MSC),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2.2.3.5,"The ability to gather information from chemical and biological agents, objects and activities."
+Measurements and Signatures Collection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.3,"The ability to collect parameters and distinctive characteristics of natural or man-made phenomena, equipment, or objects."
+Medical Care in a CBRNE Environment,6,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1.4.1.6.5,"Response in the event of an emergency resulting in casualties generated by WMD, mass casualty incidents, and/or terrorism events including the ability to perform medical operations in a contaminated environment, decontaminate patients, and mitigate CBRNE medical effects."
+Medical Command and Control,6,0,0,0,1,0,0,1,1,1,0,0,1,0,0,1,1.4.1.7,"The ability to exercise authority and direction over assigned and attached forces in the accomplishment of the mission. Command and control functions are performed through an arrangement of personnel, equipment, communications, facilities, and procedures employed by a commander in planning, directing, coordinating, and controlling forces and operations in the accomplishment of the mission."
+Medical Contract Management,6,0,0,0,1,1,0,1,0,1,0,0,1,1,0,0,1.4.1.12.7,
+Medical Contract Management,5,0,0,1,0,0,0,1,0,1,0,0,1,0,0,1,1.4.3.9.8,
+Medical Equipment and Technology,6,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,1.4.1.12.2,
+Medical Equipment and Technology,5,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1.4.3.9.3,
+Medical Equipment Maintenance,6,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,1.4.1.12.3,
+Medical Equipment Maintenance,5,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1.4.3.9.4,
+Medical Evacuation (MEDEVAC),7,0,0,1,1,0,1,0,0,1,0,0,1,1,1,0,1.4.1.5.5,
+Medical Facilities,6,0,0,1,1,0,0,1,0,1,0,0,1,0,0,1,1.4.1.12.5,
+Medical Facilities,5,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1.4.3.9.6,
+Medical Financial Management,6,0,0,1,0,0,0,1,0,1,1,0,1,0,0,1,1.4.3.6,
+Medical Information Management,4,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1.4.3.7,
+Medical Logistics,6,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,1.4.3.9,
+Medical Logistics Integration,5,0,0,0,1,0,0,1,0,1,0,0,1,1,0,0,1.4.1.12.8,
+Medical Logistics Management,4,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1.4.1.12.9,
+Medical Logistics Services,6,0,0,1,1,0,0,1,0,1,0,0,1,0,0,1,1.4.1.12.6,
+Medical Logistics Services,4,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,1.4.3.9.7,
+Medical Management (Chronic Illnesses),5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.6,
+Medical Materiel,6,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,1.4.1.12.1,
+Medical Materiel Blood,6,0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,1.4.3.9.1,
+Medical Readiness Training,6,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,1.4.3.5.2,
+Medical Regulation,5,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1.4.1.5.6,
+Medical Research and Development,4,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1.4.3.10,
+Medical Services Acquisition,9,0,0,1,1,1,0,1,0,1,1,0,1,0,1,1,1.4.3.2.1,
+Medical Support to Disability Evaluation,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.2.6.2,
+Mental Healthcare,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.12,
+Mitigate,3,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,7.2,
+Mitigate Lethal Effects,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.2.1,
+Mitigate Non-Lethal Effects,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.2,
+Mitigation of health consequences of hostile action,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.1.10.3,
+Modify,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.5.1,
+Modify,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.5.1,
+Monitor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6,
+Monitor (P&D),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2.1.3.3,
+Monitor EXecution  Assess Effects and Adapt Operations,4,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1.4.1.7.6,
+Monitoring,7,0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,1.4.3.2.2,
+Mortuary Affairs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.5,
+Mortuary Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.5.2,
+Move the Force,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.1,
+Moving Targets (EK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3,
+Moving Targets (ENK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3,
+Natural Hazards (ML),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.9,
+Natural Hazards (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.9,
+Net Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.2,
+Network Resource Visibility,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.2.1.1,
+Non-Clinical Preventive Medicine / Health Surveillance,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.4,
+Non-Contagious (MLB),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.2.2,
+Non-Contagious (MNB),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.2.2,
+Non-Emergency Medical Transport,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.4.1,
+Non-Kinetic Means,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2,
+Non-Maneuvering (PKA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.1.2,
+Non-Maneuvering (PKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.2.2,
+Non-Maneuvering (PKSS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.3.2,
+Nuclear (ML),2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,7.2.1.4,
+Nuclear Radiation (MSC),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2.2.3.6,
+Observation (HBC),2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2.2.4.3,
+Occupational Health Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.3,
+Occupational Rehabilitation,4,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1.4.2.5.4,
+Occupational Therapy,4,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1.4.2.5.5,
+Offensive Cyber,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.4.1,
+Operate the Joint Deployment and Distribution Enterprise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.3,
+Operate the Joint Supply Enterprise (JSE),5,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,4.2.5,
+Operational Contract Support,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.5,
+Operational Test and Evaluation,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,9.1.3,
+Operationally Move the Force,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.1.2,
+Optical,6,0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,1.4.1.12.4,
+Optical,5,0,0,1,1,0,0,0,0,1,0,0,1,0,1,0,1.4.3.9.5,
+Optimize (P&D),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2.1.3.5,
+Optimize Health and Fitness of the Deployed Force,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.2.3,
+Optimize Health and Fitness of the Non-deployed Force,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.2.2,
+Optimize Human Systems Integration (HSI),6,0,0,1,1,0,1,1,0,0,0,0,1,0,1,0,1.4.1.1.2,
+Optimized Network Functions and Resources,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.2.1,
+Organic and Area Medical Support in Theater,6,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1.4.1.6.3,
+Organize,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.1,
+Organize Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.2.1,
+Organize Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.2.1,
+Packaged Water (bottled/pouched),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4.4.2.3,
+Partner with Governments and Institutions,3,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,8.2.1,
+Partnership Development,9,0,1,1,0,1,1,1,0,1,1,0,1,1,0,0,1.4.3.3,
+Patient Decontamination,5,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.6.5.1,
+Patient Medical Countermeasures,5,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.6.5.2,
+Patient Movement Planning  C2,11,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1.4.1.5.7,
+Patient Safety:,6,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1.4.2.1.1.3,
+Personal Hygiene Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.4.1,
+Personnel Accountability,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1.3.2.4,
+Personnel and Family Support,10,0,1,1,0,1,1,1,0,1,1,1,1,0,0,1,1.3.1,
+Personnel Management,5,1,1,0,0,0,1,0,0,1,0,0,0,0,0,1,1.3.2,
+Personnel Security Investigations and Clearance Certification,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.1.2.4,
+Persuade Partner Audiences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.1.2,
+Pharmacy Services,6,0,0,1,1,0,1,0,0,1,1,0,1,0,0,0,1.4.2.4.10,
+Physical Environment (IC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.2.5,
+Physical Rehabilitation,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.5.1,
+Physical Therapy,4,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1.4.2.5.1.1,
+Plan Collaboratively,14,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1.4.1.7.1,
+Planning,8,0,0,0,0,1,0,1,1,1,1,1,0,1,1,0,5.3,
+Planning and Direction,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2.1,
+Point (EKFS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.1,
+Point (EKMS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.1,
+Point (EKSS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.1,
+Point (ENKFS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.1.1.1,
+Point (ENKMS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.3.1,
+Point (ENKSS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.2.1.1,
+Populations (MTSL),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.3.1,
+Port Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2.6,
+Portal Services,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.3.1,
+Portfolio Management,3,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1.4.3.8.2,
+Portfolio System Acquisition,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,9.4.4.3,
+Position  Navigation and Timing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.2.4,
+Position  Navigation and Timing (ENKES),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.5.1,
+Prediction (AP),4,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,2.4.4,
+Prepare Distributable ConteXt,7,0,0,0,0,1,0,1,1,1,1,1,0,1,0,0,5.2.3.3,
+Prevent,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1,
+Prevent Kinetic Attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1,
+Prevent Non-kinetic Attack,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.2,
+Preventive Dentistry Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.2,
+Preventive Health Counseling:,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.1.2,
+Preventive Medical Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.1,
+Primary Care:,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.3.1,
+Processing / EXploitation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3,
+Product Generation (AP),3,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,2.4.5,
+Production & Lifecycle Acquisition,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,9.4.4.4,
+Professional Military Education,5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1.2.3.1,
+Program Initiation,4,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,9.5.1,
+Program Management,9,0,1,0,1,0,0,0,1,1,1,1,1,1,1,0,9.4.4.1,
+Program/ Budget and Finance,5,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,4.5.3,
+Program/ Budget and Performance,6,0,0,0,0,1,0,0,1,1,0,1,0,0,1,1,9.5,
+Projectiles (ML),3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,7.2.1.7,
+Projectiles (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.6,
+Protect Against Denial or Degradation of Services,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.3.2.2,
+Protect Against Disclosure or Modification of Data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.3.2.3,
+Protect Against Network Infiltration,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.3.2.1,
+Protect Data and Networks,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.3.2,
+Protection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,
+Protection of force health,4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.10.2,
+Provide a Healthy and Fit Force (Health and Wellness),3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.2,
+Provide Aid to Foreign Partners and Institutions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.2,
+Provide and Maintain Ability to Operate Across the Full Range of Military Operations,4,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1.4.1.1.6,
+Provide Comprehensive Health Surveillance,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.4.1,
+Provide Concept of Operations,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.1.4,
+Provide Food Safety and Inspections,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.3.1,
+Provide for Medical Countermeasures,5,0,0,1,1,1,0,0,0,0,0,0,1,0,1,0,1.4.1.4.7,
+Provide for Non-Medical Countermeasures,3,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1.4.1.4.8,
+Provide Health Risk Assessment,4,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,1.4.1.4.5,
+Provide Health Risk Communications (Including CBRNE),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.4.6,
+Provide Health Risk Evaluation (Characterization),4,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1.4.1.4.4,
+Provide Health-Related Education,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.3.3,
+Provide Installation Assets,3,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,4.7.1.1,
+Provide Medical Intelligence Preparation of the Operational Environment (MIPOE),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.4.2,
+Provide Military Working Animal Care,2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.3.2,
+Provide Mobility Assessments,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.3.2,
+Provide Patient Reception  Staging and Re-distribution,5,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1.4.1.5.8,
+Provide Position  Navigation and Timing Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.2.4.1,
+Provide Public Health / Veterinary Services,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1.4.1.3,
+Provide Public Health Sanitation  Control of Disease Vectors  and Other Health Threats,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.1.3.4,
+Provide Warnings,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5.5.1.5,
+Psychological Rehabilitation,4,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1.4.2.5.1.3,
+Public Health Laboratory (PHL) Services,3,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1.4.2.2.4,
+Quality Assurance:,6,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1.4.2.1.1.1,
+Quality Improvement (QI):,5,0,1,1,0,1,0,0,0,1,0,0,1,0,0,0,1.4.2.1.1.4,
+Radar (ENKES),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.5.2,
+Radar (IC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.2.3,
+Radar (MSC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.3.2,
+Radio-Frequency (MSC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.3.4,
+Radiological (ML),2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,7.2.1.3,
+Radiological (MN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2.2.3,
+Radiology Diagnostic Services,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.3.5,
+Range Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.2.7,
+Rapid Configuration Change,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.2.1.2,
+Readiness Reporting,4,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1.1.4,
+Real Property Life Cycle Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.1,
+Rebuild,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.5,
+Rebuild,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.5,
+Recapitalization of Installation Assets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.7.1.4,
+Reclaim,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.3.2,
+Reclaim,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.3.2,
+REHABILITATION,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.5,
+REINTEGRATION,5,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,1.4.2.6,
+Religious Advisement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3.1.4.2,
+Religious Affairs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3.1.4,
+Religious Support,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.3.1.4.1,
+Remote Unit Feeding,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.1.3,
+Renovate,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.5.2,
+Renovate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.5.2,
+Repair,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.4,
+Repair,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.4,
+Repair and Restore Infrastructure,3,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,4.6.1.5,
+Research,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,9.4.1,
+Resources (MTSL),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.3.3,
+Risk Management:,7,0,1,1,0,1,1,0,0,1,1,0,1,0,0,0,1.4.2.1.1.2,
+Routine Ambulatory Care (Dental),5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.4,
+Routine Ambulatory Care (Medical),4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.4.3,
+Screening:,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.2.1.1,
+Secure Information EXchange,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.1.3.1,
+Select Actions,5,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,5.4.2,
+Select Course of Action,4,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,5.4.2.1,
+Select Plan,3,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,5.4.2.2,
+Sensory Rehabilitation,4,0,0,1,1,0,0,0,0,0,1,0,1,0,0,0,1.4.2.5.1.2,
+Server Services,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.2.3,
+Service,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.3,
+Service,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.3,
+Shallow (EKFU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.3.3,
+Shallow (EKMU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.5.3,
+Shallow (EKSU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.3.3,
+Shape,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2,
+Share Knowledge and Situational Awareness,6,0,0,0,0,1,0,1,1,1,0,1,0,1,0,0,5.2.3,
+Shared Computing,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,6.2.2.1,
+Shared Situational Understanding and Awareness,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1.4.1.8,
+Shelter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.3.1,
+Signals Collection,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.1,
+Socio-Cultural Data (HBC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.4.6,
+Soft (EKFSA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.2.2,
+Soft (EKFSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1.1.2,
+Soft (EKMSA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.2.2,
+Soft (EKMSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3.1.2,
+Soft (EKMU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.4.1,
+Soft (EKSSA),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.2.2,
+Soft (EKSSP),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1.1.2,
+Soft (EKSU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.2.1,
+Solid Waste Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.3.5,
+Sonar (IC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.2.4,
+Sonar (MSC),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.2.3.7,
+Space (EKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.2,
+Space (ENKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.2,
+Space (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.2,
+Space (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.2,
+Space (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.2,
+Space (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.2,
+Specialty Care,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.3.2,
+Spectrum Assignment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.2.3.2,
+Spectrum Deconfliction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.2.3.3,
+Spectrum Management,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.2.3,
+Spectrum Monitoring,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.2.3.1,
+Staff Development,6,0,1,1,0,1,1,0,0,1,0,0,1,0,0,0,1.4.3.5.3,
+Staging and Management of Patient Movement Teams,5,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,1.4.1.5.9,
+Stationary Target (EK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2,
+Stationary Target (ENK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.2,
+Stimulate the Use of Foreign Security-Related Capabilities,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8.2.4.3,
+Strategically Move the Force,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.1.1,
+Strategy and Assessment,2,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,9.2,
+Strategy Development,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.2.1,
+Strength Reporting,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1.3.2.5,
+Strengthen Global Defense Posture,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,8.2.5,
+Structure Organization to Mission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.1.2,
+Studies & Analyses,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,9.2.4,
+Substance Abuse Care,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.13,
+Sub-Surface (PN),1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,7.1.2.3,
+Sub-Surface Kinetic (PK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.3,
+Supply,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.2,
+Supply Partner Aid,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.2.2.2,
+Support to Homeland Defense and Civil Support Operations,6,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,1.4.1.10,
+Support to Stability Operations,7,0,1,1,1,0,0,0,0,1,0,0,1,1,1,0,1.4.1.9,
+Surf Zone (EKFU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.3.1,
+Surf Zone (EKMU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.5.1,
+Surf Zone (EKSU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.3.1,
+Surface (EKF),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.1,
+Surface (EKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.3,
+Surface (EKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.1,
+Surface (ENKF),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.1.1,
+Surface (ENKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.3,
+Surface (ENKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.2.1,
+Surface (PK),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.1.2,
+Surface (PN),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.1.2.2,
+Surgery (Ambulatory),5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.5,
+Surgery (Inpatient),5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.9,
+Sustain the Force,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.1.2,
+Sustainment of Installation Assets,4,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,4.7.1.3,
+Switching and Routing,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.1.3,
+Synchronize EXecution Across All Domains,4,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1.4.1.7.5,
+Synchronize Operations,2,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,5.5.2.1,
+Systems Engineering & Manufacturing,4,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,9.4.3.1,
+Task,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.5.2,
+Task and Direct Information Collection (P&D),2,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2.1.3.2,
+Task and Monitor Resources (P&D),3,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,2.1.3,
+Test,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,4.3.1.2,
+Test,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.3.2.2,
+TeXtile Services,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.4.2,
+Theater Hospitalization,6,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1.4.1.6.4,
+Therapeutic Radiology Services,5,0,0,1,1,0,0,0,0,1,1,0,1,0,0,0,1.4.2.4.11,
+Total Medical Force (Medical Professionals),5,0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,1.4.3.4,
+Total Medical Force Recruiting and Retention,6,0,0,1,0,0,1,1,0,1,0,0,1,0,0,1,1.4.3.4.1,
+Training,5,1,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1.2.1,
+Transitional Services,4,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1.4.2.6.3,
+TREATMENT,4,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,1.4.2.4,
+Underground (EKF),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.2,
+Underground (EKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.4,
+Underground (EKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.2,
+Underground (ENKF),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.1.2,
+Underground (ENKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.4,
+Underground (ENKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.2.2,
+Underground (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.5,
+Underground (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.5,
+Underground (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.5,
+Underground (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.5,
+Understand,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.2,
+Understand Implications,9,1,1,0,0,1,0,0,1,1,0,1,1,1,0,1,5.2.2.1,
+Understand Objectives,2,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,5.3.4.2,
+Underwater (EKF),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.3,
+Underwater (EKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.5,
+Underwater (EKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.3,
+Underwater (ENKF),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.1.3,
+Underwater (ENKM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.3.5,
+Underwater (ENKS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.2.2.3,
+Underwater (MTE),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.1.6,
+Underwater (MTI),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.2.6,
+Underwater (MTInfl),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.3.6,
+Underwater (MTS),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1.4.6,
+Utility Operations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.3.3,
+Utilization Management:,4,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,1.4.2.4.6.3,
+Utilize Geospatial Data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.6.3.1,
+Utilize Position  Navigation and Timing Information,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.2.4.2,
+Validate Information Collection Needs (P&D),3,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,2.1.3.1,
+Very Shallow (EKFU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.1.3.2,
+Very Shallow (EKMU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.3.5.2,
+Very Shallow (EKSU),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.2.1.2.3.2,
+Water and Ice Service,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.2,
+Water Reuse,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4.3.4,
+Wired Transmission,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.1.1.1,
+Wireless Transmission,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6.1.1.2,
+Wounded  ill and Injured Support,10,0,1,1,1,1,1,0,0,1,1,1,1,1,0,0,1.3.1.3,

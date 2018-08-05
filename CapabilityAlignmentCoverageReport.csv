@@ -1,0 +1,717 @@
+JCA ID,Capability,EMW,Emw Count
+JCA ID,2015 JCA NAME,N/A ,0
+7.1.1.1,Above Surface (PK),N/A ,0
+7.1.2.1,Above Surface (PN),N/A ,0
+1.4.1.2.1,Access a Healthy and Fit Force,E3 | E4 | W8 ,3
+9.5.2,Accounting and Finance,E4 | W10 ,2
+1.4.1.10.4,Achievement of health preparedness and an adequate response capability,E3 | E4 | W8 ,3
+9.4,Acquisition,E4 | W10 | W7 ,3
+9.4.4,Acquisition Management,E4 | W10 | W3 | W5 ,4
+4.3.1.3.1,Activate / Inactivate,E2 | M1 | W10 ,3
+4.3.2.3.1,Activate / Inactivate,N/A ,0
+9.4.2,Advanced Technology,E4 | W10 | W5 | W6 ,4
+9.1.1,Advice and EXternal Matters,E4 | W10 ,2
+9.1,Advisory and Compliance,N/A ,0
+1.4.1.5.1,Aeromedical Evacuation (AE),E3 | E4 | W10 | W5 | W8 | W9 ,6
+3.2.1.3.1,Air (EKM),N/A ,0
+3.2.2.3.1,Air (ENKM),N/A ,0
+3.1.1.1,Air (MTE),N/A ,0
+3.1.2.1,Air (MTI),N/A ,0
+3.1.3.1,Air (MTInfl),N/A ,0
+3.1.4.1,Air (MTS),N/A ,0
+4.7.2.5,Airfield Management,N/A ,0
+1.1.1.3,Allocation,E4 | M1 | W10 | W3 | W4 | W5 | W8 ,7
+1.4.2.3.2,Ambulatory Diagnostic Services (Dental),E3 | E4 | W5 | W8 ,4
+1.4.2.3.1,Ambulatory Diagnostic Services (Medical),E3 | E4 | W5 | W8 ,4
+1.4.2.5.2,Amputee Care,E3 | E4 | W5 | W6 | W8 ,5
+2.4,Analysis  Prediction and Production,N/A ,0
+5.3.5,Analyze Courses of Action,E4 | W1 | W4 | W5 | W6 ,5
+5.2.2.2,Analyze Information,W1 | W3 | W4 | W5 | W7 | W9 ,6
+5.3.1,Analyze Problem,W1 | W3 | W4 | W5 | W6 | W7 ,6
+5.3.1.1,Analyze Situation,W1 | W4 | W5 | W6 | W7 ,5
+1.4.1.4.3,Anticipate and Predict Health Threats,E3 | E4 | W10 | W8 ,4
+9.4.1.2,Applied,E4 | W10 | W5 | W6 ,4
+5.3.2,Apply Situational Understanding,W1 | W3 | W4 | W5 | W6 | W7 ,6
+1.1.1.1,Apportionment,E2 | E4 | W3 | W4 | W5 ,5
+1.4.1.4.9,Archive and Retrieve Health-Related Documents and Data,W7 | W8 ,2
+3.2.1.1.1.2,Area (EKFS),N/A ,0
+3.2.1.3.3.2,Area (EKMS),N/A ,0
+3.2.1.2.1.2,Area (EKSS),N/A ,0
+3.2.2.1.1.2,Area (ENKFS),N/A ,0
+3.2.2.3.3.2,Area (ENKMS),N/A ,0
+3.2.2.2.1.2,Area (ENKSS),N/A ,0
+2.1.3.4,Assess (P&D),E4 | W8 ,2
+5.6.3,Assess Achievement of Objectives,W9 ,1
+5.3.4.1,Assess Available Capabilities,W1 | W4 | W5 | W6 ,4
+5.1.2.2,Assess Capabilities,E3 | M1 | W1 | W10 | W2 | W3 | W4 | W5 ,8
+5.6.1,Assess Compliance with Guidance,N/A ,0
+5.6.2,Assess Effects,N/A ,0
+5.6.1.1,Assess Employment of Forces,N/A ,0
+4.2.4,Assess Global Requirements  Resources  Capabilities and Risks,E2 | E4 | M1 | W1 | W10 | W3 | W9 ,7
+5.6.4,Assess Guidance,N/A ,0
+5.6.1.2,Assess Manner of Employment,N/A ,0
+5.1.2.3,Assign Roles and Responsibilities,E3 | M1 | W1 | W2 | W4 | W5 ,6
+1.1.1.2,Assignment,E4 | M1 | W3 | W4 | W5 | W6 ,6
+6.1.3.1.1,Assure Access,E4 | W7 ,2
+6.1.3.1.2,Assure Transfer,N/A ,0
+9.1.2,Audit  Inspection and Investigation,N/A ,0
+9.1.2.1,Audits,N/A ,0
+2.5.2,BA Data Access,N/A ,0
+2.5,BA Data Dissemination and Relay,N/A ,0
+2.5.1,BA Data Transmission,N/A ,0
+4.7,Base and Installations Support,N/A ,0
+4.7.2.3,Base Support Vehicles and Equipment,W5 ,1
+9.4.1.1,Basic,N/A ,0
+2,Battlespace Awareness (BA),E4 | W3 ,2
+1.4.3.2.3,Beneficiary Services,E3 | W3 | W5 | W6 | W8 ,5
+6.1.1.2.2,Beyond Line of Sight,N/A ,0
+4.4.3.2,Billeting,N/A ,0
+7.2.1.2,Biological (ML),E4 | W10 | W3 ,3
+7.2.2.2,Biological (MN),E4 ,1
+2.2.4.4,Biometrics Data (HBC),N/A ,0
+1.4.3.9.2,Blood,E3 | E4 | W3 | W5 | W8 ,5
+8.2.3,Build the Capabilities and Capacities of Partners and Institutions,N/A ,0
+8,Building Partnerships,N/A ,0
+4.4.2.1,Bulk Water (non-potable),N/A ,0
+4.4.2.2,Bulk Water (potable),E4 ,1
+1.4.2.5.3,Burn Care,E3 | E4 | W5 | W6 | W8 ,5
+4.3.1.6,Calibrate,E2 | M1 | W10 ,3
+4.3.2.6,Calibrate,N/A ,0
+9.2.2,Capabilities Development,E4 | W10 ,2
+9.4.2.2,Capability Demonstration,E4 | W10 | W3 ,3
+9.4.2.1,Capability EXperimentation,W7 ,1
+9.4.4.5,Capability Termination & Disposal,W1 | W3 | W5 ,3
+1.4.2.4.6.2,Case Management:,E3 | E4 | W5 | W6 | W8 ,5
+1.3.1.2,Casualty Assistance,E2 | E3 | E4 | W1 | W2 | W5 | W6 | W7 | W8 | W9 ,10
+1.4.1.5.2,Casualty Evacuation (CASEVAC),E3 | E4 | W10 | W5 | W8 | W9 ,6
+1.4.1.6,Casualty Management,E1 | E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W7 | W8 | W9 ,13
+7.2.1.1,Chemical (ML),E4 | W5 ,2
+7.2.2.1,Chemical (MN),E4 | W10 | W3 ,3
+3.2.1.1.1.1.3,Chemical  Biological  Radiological and Nuclear (EKFSP),N/A ,0
+3.2.1.1.2.2,Chemical  Biological  Radiological and Nuclear (EKFU),N/A ,0
+3.2.1.3.3.1.3,Chemical  Biological  Radiological and Nuclear (EKMSP),N/A ,0
+3.2.1.3.4.2,Chemical  Biological  Radiological and Nuclear (EKMU),N/A ,0
+3.2.1.2.1.1.3,Chemical  Biological  Radiological and Nuclear (EKSSP),N/A ,0
+3.2.1.2.2.2,Chemical  Biological  Radiological and Nuclear (EKSU),N/A ,0
+3.2.2.6,Chemical  Biological  Radiological and Nuclear (ENK),N/A ,0
+1.2.3.2,Civilian Education,E1 | E2 | W1 | W2 | W8 ,5
+1.4.3.2.4,Claims Payment,M1 | W5 | W6 ,3
+1.4.2.2,CLINICAL PREVENTIVE MEDICINE,E3 | E4 | W5 | W8 ,4
+6.2.3.2,Collaboration,E4 | W7 ,2
+2.2,Collection,N/A ,0
+4.6.2,Combat Engineering,N/A ,0
+5,Command and Control,N/A ,0
+6.2.3.5,Common Identity Assurance Services,N/A ,0
+8.1,Communicate,N/A ,0
+5.5.1,Communicate Intent and Guidance,W1 | W3 | W5 ,3
+1.4.1.8.1,Communicate Medical Plan to Support Commander’s Intent and Guidance,E4 | W5 | W8 | W9 ,4
+6.1.1.3.1,Communication Bridge,W7 ,1
+6.1.1.3.2,Communication Gateway,W7 ,1
+3.2.2.5.3,Communications (ENKES),N/A ,0
+2.2.1.1,Communications (SC),N/A ,0
+6,Communications and Computers,W7 | W9 ,2
+1.4.2.2.1.3,Community Health Education:,E3 | E4 | W5 | W8 ,4
+1.3.1.1,Community Support,E2 | E3 | M1 | W1 | W2 | W3 | W5 | W6 | W8 | W9 ,10
+1.3.2.2,Compensation,E1 | M1 ,2
+5.2.1.1,Compile Information,W1 | W10 | W5 | W8 ,4
+5.2.1.1,Compile Information,E2 | W1 | W5 ,3
+6.2.2,Computing Services,E4 | W7 ,2
+1.2.6,Concepts,E4 | W1 | W8 ,3
+7.2.1.2.1,Contagious (MLB),E4 | W10 | W3 ,3
+7.2.2.2.1,Contagious (MNB),E4 | W10 | W3 ,3
+6.2.3.4,Content Delivery,E4 | W7 ,2
+6.2.3.3,Content Discovery,E4 | W7 ,2
+4.4.3,Contingency Base Services,N/A ,0
+4.4.5.1,Contingency Fatality Operations,N/A ,0
+4.4.1.1,Contingency Location Feeding,N/A ,0
+1.4.3.5.4,Continuing Health Education,E2 | E3 | W2 | W5 | W8 ,5
+1.4.3.1.1,Contract Development,E3 | W3 | W5 | W6 | W8 ,5
+1.4.3.1.2,Contract Modifications,E3 | W3 | W5 | W6 | W8 ,5
+4.5.1,Contract Support Integration,E2 | E3 | M1 | W10 | W2 | W5 | W6 | W9 ,8
+9.4.4.2,Contracting,E4 | W10 | W3 ,3
+4.5.2,Contractor Management,E2 | W5 | W6 ,3
+1.4.3.5.1,Core and Specialty Medical Education and Training Programs,E2 | E3 | W2 | W8 ,4
+6.2.3,Core Enterprise Services,E4 | W7 ,2
+9,Corporate Management and Support,W5 ,1
+2.2.4.2,Counterintelligence (CI),N/A ,0
+1.4.3.8,Create and Sustain the Healing Environment,W3 | W5 | W8 ,3
+1.4.3.4.2,Credentialing and Privileging,E3 | M1 | W5 ,3
+5.1.1.2,Cultivate Coordination with Partner Organizations,E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 | W9 ,12
+5.1.1.1,Cultivate Relations with Mission Partners,E3 | E4 | W2 | W5 | W6 | W8 | W9 ,7
+2.2.1.4,Cyber Network (SC),N/A ,0
+6.1.3,Cybersecurity,N/A ,0
+3.2.2.4,Cyberspace (ENK),N/A ,0
+3.1.1.7,Cyberspace (MTE),N/A ,0
+3.1.2.7,Cyberspace (MTI),N/A ,0
+3.1.3.7,Cyberspace (MTInfl),N/A ,0
+3.1.4.7,Cyberspace (MTS),N/A ,0
+2.3.1,Data Transformation (PE),N/A ,0
+5.4,Decide,E4 | W1 | W5 | W7 | W9 ,5
+3.2.1.1.3.4,Deep Water (EKFU),N/A ,0
+3.2.1.3.5.4,Deep Water (EKMU),N/A ,0
+3.2.1.2.3.4,Deep Water (EKSU),N/A ,0
+4.6.2.1,Defeat EXplosive Hazards,N/A ,0
+6.1.4,Defensive Cyber - Internal Defensive Measures,E4 | W7 ,2
+3.2.2.4.2,Defensive Cyber (DC) Response Actions,N/A ,0
+2.1.1,Define and Prioritize Requirements (P&D),W3 ,1
+5.2.3.1,Define Associated Community,W1 | W3 | W4 | W5 | W6 | W7 | W9 ,7
+5.2.2.3,Define Knowledge Structure,E1 | W1 | W3 | W4 | W5 | W7 | W9 ,7
+5.1.2.1,Define Structure,E1 | E3 | M1 | W10 | W2 | W4 | W5 | W7 ,8
+1.4.2.1,DEFINE THE HEALTH BENEFIT,E1 | E2 | E3 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 | W9 ,13
+8.1.3.3,Deliver and Adjust Influential Content,W3 | W9 ,2
+8.1.1.3,Deliver and Adjust Information,N/A ,0
+8.1.2.3,Deliver and Adjust Persuasive Content,W9 ,1
+4.1.2.1,Deliver Non-Unit-Related Cargo,N/A ,0
+4.1.2.2,Deliver Non-Unit-Related Personnel,N/A ,0
+1.4.1.11.3,Dental Care,E3 | E4 | W9 ,3
+4.6.2.3,Deny Movement and Maneuver,N/A ,0
+6.1.2.2,Deployable Scalable and Modular Networks,N/A ,0
+4.1,Deployment and Distribution,N/A ,0
+4.3.1,Depot Maintenance,N/A ,0
+1.4.1.11.2,Detainee Emergency Healthcare,E3 | E4 | W9 ,3
+1.4.1.11.1,Detainee Healthcare,E3 | E4 | W9 ,3
+1.4.1.11,Detainee Medical Care,E3 | E4 | W9 ,3
+5.3.3.1,Determine End State,W1 | W3 | W4 | W5 | W6 | W7 ,6
+5.3.2.3,Determine Opportunities,W1 | W3 | W4 | W5 | W6 | W7 ,6
+8.2.3.1,Determine Partner Requirements,N/A ,0
+8.2.4.2,Determine Utility of Foreign Security-Related Capabilities,N/A ,0
+5.3.2.2,Determine Vulnerabilities,W1 | W3 | W4 | W5 | W6 | W7 ,6
+4.6.1.2,Develop and Maintain Facilities,E3 | E4 | M1 | W5 ,4
+1.4.1.8.2,Develop and Maintain Shared Situational Awareness and Understanding,E4 | M1 | W5 | W7 | W8 | W9 ,6
+1.4.3.6.1,Develop and Manage Defense Health Program (DHP),E3 | M1 | W10 | W3 | W5 | W6 | W8 ,7
+5.3.3.2,Develop Assumptions,M1 | W1 | W3 | W4 | W5 ,5
+8.1.2.2,Develop Cognitive Programs and Products,W9 ,1
+5.3.4,Develop Courses of Action,W1 | W3 | W4 | W5 | W6 ,5
+8.1.3.2,Develop Influential Programs and Products,W3 | W9 ,2
+5.2.2,Develop Knowledge and Situational Awareness,E1 | W1 | W5 | W7 ,4
+8.1.1.1,Develop Objective Information,N/A ,0
+5.3.3.3,Develop Objectives,W1 | W4 | W5 | W6 | W7 ,5
+5.3.4.3,Develop Options,W1 | W4 | W5 | W6 | W7 ,5
+8.2.1.2,Develop Partnership Agreements,N/A ,0
+2.1.2,Develop Strategies (P&D),E4 | W3 ,2
+5.3.3,Develop Strategy,W1 | W3 | W4 | W5 | W6 | W7 ,6
+9.4.3,Developmental Engineering,E4 | W10 | W3 ,3
+9.4.3.2,Developmental Testing,W10 | W5 ,2
+1.4.2.3,DIAGNOSIS,E3 | E4 | W5 | W8 ,4
+5.5,Direct,W1 | W5 ,2
+7.2.1.8,Directed Energy (ML),N/A ,0
+7.2.2.7,Directed Energy (MN),N/A ,0
+6.2.3.7,Directory Services,W7 ,1
+1.4.2.6.1,Disability Counseling and Coaching,E3 | E4 | W6 | W8 ,4
+1.3.2.3,Disability Evaluation,E4 ,1
+1.4.2.4.6.1,Disease Management:,E3 | E4 | W5 | W6 | W8 ,5
+4.7.1.5,Disposal of Installation Assets,N/A ,0
+5.2.1.3,Disseminate Information,E1 | W1 | W5 | W7 ,4
+5.2.1.2,Distill Information,W1 | W10 | W5 | W8 ,4
+5.2.1.2,Distill Information,E2 | W1 | W5 ,3
+6.2.2.2,Distributed Computing,E4 | W7 ,2
+1.2.4,Doctrine,E2 | E4 | W1 | W4 | W5 | W8 ,6
+5.3.1.2,Document Problem Elements,W1 | W3 | W4 | W5 | W6 | W7 ,6
+2.2.4.5,Documents & Media (HBC),N/A ,0
+6.1,DODIN Capabilities,W7 ,1
+4.7.1.6,Economic Adjustment Activities,N/A ,0
+1.2.3,Educating,E1 | E2 | W1 | W2 | W8 ,5
+7.2.1.5,Electromagnetic Pulse (ML),E4 | W10 | W3 ,3
+7.2.2.4,Electromagnetic Pulse (MN),N/A ,0
+3.2.2.5,Electromagnetic Spectrum (ENK),N/A ,0
+7.2.2.8,Electromagnetic Spectrum (MN),N/A ,0
+2.2.1.2,Electronic Emissions (SC),N/A ,0
+2.2.2.1,Electro-Optical (IC),N/A ,0
+2.2.3.1,Electro-Optical (MSC),N/A ,0
+4.7.2.1,Emergency Services,E3 | E4 | W4 | W6 | W8 ,5
+1.4.2.4.2,Emergency Services,E3 | E4 | W5 | W8 ,4
+6.2.2.4,End User Services,E4 | W7 ,2
+8.2.1.1,Engage Partners,E4 | W3 | W9 ,3
+3.2,Engagement,N/A ,0
+4.6,Engineering,N/A ,0
+4.6.2.2,Enhance Mobility,N/A ,0
+8.2.3.2,Enhance Partner Capabilities and Capacities,N/A ,0
+1.4.1.1.5,Enhance Physiological Capability,E3 | E4 | M1 | W2 | W8 ,5
+1.4.1.1.8,Enhance Psychological Resilience,E3 | E4 | W8 ,3
+4.6.2.4,Enhance Survivability,N/A ,0
+1.4.1.1.4,Enhance Warfighter Learning  Communications and Decision-making,E2 | E3 | E4 | W1 | W2 | W8 ,6
+1.4.1.1.3,Enhance Warfighter Sensory  Cognitive  and Motor Capabilities,E3 | E4 | W10 | W8 ,4
+8.2.1.3,Enhanced Language  Regional EXpertise and Culture (LREC),N/A ,0
+1.4.1.5.3,En-route Care,E3 | E4 | W10 | W5 | W8 | W9 ,6
+1.4.1.2.4,Ensure the Physical and Mental Health of the Redeployed Force,E3 | E4 | W8 ,3
+6.2.3.8,Enterprise Application Software,W8 ,1
+9.2.5,Enterprise Architecture,E4 | W10 | W7 ,3
+6.2.3.6,Enterprise Messaging,W7 ,1
+6.2,Enterprise Services,E4 | W7 ,2
+9.2.3,Enterprise-Wide Assessment,N/A ,0
+1.4.1.4.3.1,Environmental,E3 | E4 | W10 | W8 ,4
+5.1.1,Establish and Maintain Unity of Effort with Mission Partners,N/A ,0
+5.1.3.1,Establish Collaboration Policies,E1 | M1 | W1 | W2 | W4 | W5 | W7 | W8 | W9 ,9
+5.1.3.2,Establish Collaborative Procedures,E1 | M1 | W1 | W10 | W2 | W4 | W5 | W7 | W9 ,9
+5.2.3.2,Establish Collective Meaning (Collaboration),W1 | W3 | W4 | W5 | W6 | W7 | W9 ,7
+5.1.2.5,Establish Commander's EXpectations,E2 | E4 | M1 | W1 | W4 | W5 ,6
+5.4.4,Establish Intent and Guidance,W1 | W3 | W4 | W5 | W6 | W7 | W8 | W9 ,8
+4.6.1.3,Establish Lines of Communications,N/A ,0
+5.5.3.2,Establish Measures of Effectiveness,E4 ,1
+5.5.3.1,Establish Measures of Performance,E4 ,1
+5.5.3,Establish Metrics,E4 ,1
+5.4.3,Establish Rule Sets,W1 | W3 | W4 | W5 | W6 | W7 | W8 | W9 ,8
+5.3.5.1,Establish Selection Criteria,W1 | W3 | W4 | W5 | W6 | W7 ,6
+1.4.1.7.3,Establish/Adapt Lines of Communication and Relationships to Enable Global / Regional Collaboration of all Medical Partners,E3 | E4 | W5 | W6 | W8 | W9 ,6
+5.3.5.2,Evaluate Courses of Actions,W1 | W4 | W5 | W6 | W7 | W9 ,6
+5.3.2.1,Evaluate Operational Environment,W1 | W3 | W4 | W5 | W6 | W7 ,6
+2.4.2,Evaluation (AP),M1 | W1 | W10 | W5 | W7 ,5
+1.4.1.7.4,EXercise Medical Management of Seamless Interoperable Medical Operations,E4 | W5 | W8 | W9 ,4
+1.2.2,EXercising,E1 | E2 | W1 | W2 | W8 ,5
+1.2.7,EXperimentation,E4 | W1 | W8 ,3
+7.2.1.6,EXplosives (ML),E4 | W10 | W3 ,3
+7.2.2.5,EXplosives (MN),N/A ,0
+4.7.1.2,Facilities Support,E4 | M1 | W5 ,3
+4.3.2,Field Maintenance,N/A ,0
+1.4.1.6.1,First Responder Care,E2 | E3 | E4 | W10 | W2 | W5 | W8 | W9 ,8
+3.2.1.1,FiXed Target (EK),N/A ,0
+3.2.2.1,FiXed Target (ENK),N/A ,0
+4.4.1,Food Service,N/A ,0
+3,Force Application,N/A ,0
+1.1.2,Force Configuration,E2 | E3 | E4 | M1 | W2 | W3 | W4 | W5 | W6 | W9 ,10
+1.4.1,FORCE HEALTH PROTECTION,E3 | E4 | W2 | W3 | W6 | W8 ,6
+1.1,Force Management,E1 | E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,13
+1.2,Force Preparation,E1 | E2 | W1 | W2 | W8 ,5
+1,Force Support,E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,12
+2.2.1.3,Foreign Instrumentation (SC),N/A ,0
+1.4.1.6.2,Forward Resuscitative Care,E2 | E3 | E4 | W10 | W2 | W8 | W9 ,7
+4.4.1.2,Forward Unit Feeding,N/A ,0
+5.1.3,Foster Organizational Collaboration,N/A ,0
+4.6.1.1,Gap Crossing,N/A ,0
+4.6.1,General Engineering,N/A ,0
+2.2.3.3,Geophysical (MSC),N/A ,0
+4.6.3,Geospatial Engineering,N/A ,0
+4.6.1.4,Global Access Engineering,N/A ,0
+1.1.1,Global Force Management,E2 | E4 | M1 | W1 | W2 | W3 | W4 | W5 | W8 | W9 ,10
+1.4.1.5,Global Patient Movement,E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,11
+1.1.3,Global Posture EXecution,E3 | E4 | W3 | W4 | W5 | W6 | W8 | W9 ,8
+1.4.3.5.6,Graduate Medical Education,E2 | E3 | W2 | W8 ,4
+4.6.1.6,Harden Key Infrastructure and Facilities,W10 ,1
+3.2.1.1.1.2.1,Hardened (EKFSA),N/A ,0
+3.2.1.1.1.1.1,Hardened (EKFSP),N/A ,0
+3.2.1.1.2.1,Hardened (EKFU),N/A ,0
+3.2.1.3.3.2.1,Hardened (EKMSA),N/A ,0
+3.2.1.3.3.1.1,Hardened (EKMSP),N/A ,0
+3.2.1.2.1.2.1,Hardened (EKSSA),N/A ,0
+3.2.1.2.1.1.1,Hardened (EKSSP),N/A ,0
+1.4.3.8.1,Health Facility Construction,W10 | W3 | W5 | W8 ,4
+1.4.3.7.2,Health Information Performance Assessment,E3 | W6 | W7 ,3
+1.4.3.7.1,Health Information Technology Requirements and Development,W10 | W5 | W7 ,3
+1.4.3.5.5,Health Professional Degree Granting Programs,E2 | E3 | W2 | W8 ,4
+1.4.2.1.1,Health Quality and Safety,E1 | E2 | E3 | W1 | W2 | W5 | W8 ,7
+1.4,Health Readiness,E3 | W8 | W9 ,3
+1.4.2,HEALTH SERVICE DELIVERY,E1 | E2 | E3 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 ,12
+1.4.3.1,HEALTH SERVICES CONTRACT DEVELOPMENT,E3 | W3 | W5 | W6 | W8 ,5
+1.4.3.2,HEALTH SERVICES CONTRACT MANAGEMENT,E3 | M1 | W10 | W3 | W5 | W6 | W8 ,7
+1.4.3,HEALTH SYSTEM SUPPORT,E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W5 | W6 | W8 ,11
+4.7.2.4,Housing Services,N/A ,0
+2.2.4,Human Based Collection,N/A ,0
+1.3,Human Capital Management,E2 | E4 | M1 | W1 | W2 | W4 | W5 | W8 ,8
+2.2.4.1,Human Intelligence (HBC),N/A ,0
+1.4.1.1,Human Performance Optimization (HPO) Capabilities,E3 | E4 | W3 | W8 ,4
+4.4.4,Hygiene Services,N/A ,0
+4.4.2.4,Ice Service,N/A ,0
+1.4.1.10.1,Identification of emerging health threats,E3 | E4 | W10 | W8 ,4
+8.2.2.1,Identify Aid Requirements,N/A ,0
+8.1.3.1,Identify and Understand Adversary and Competitor Attitudes,N/A ,0
+8.1.2.1,Identify Foreign Audience Attitudes,N/A ,0
+8.2.4.1,Identify Foreign Security-Related Capabilities,W5 ,1
+8.1.1.2,Identify Misinformation and Disinformation,N/A ,0
+2.2.2,Imagery Collection (IC),N/A ,0
+1.4.2.2.1.4,Immunization:,E3 | E4 | W5 | W8 ,4
+1.4.1.4.3.2,Individual human and animal,E3 | E4 | M1 | W10 | W8 ,5
+8.1.3,Influence Adversary and Competitor Audiences,W9 ,1
+8.1.1,Inform Domestic and Foreign Audiences,N/A ,0
+2.3.2,Information Categorization (PE),N/A ,0
+9.3,Information Management,E4 | W10 | W7 ,3
+6.2.1,Information Sharing,E4 | W7 ,2
+6.1.1,Information Transport,N/A ,0
+3.1.4.3.2,Infrastructure (MTSL),N/A ,0
+1.4.2.3.3,Inpatient Diagnostic Services,E3 | E4 | W5 | W8 ,4
+1.4.2.4.7,Inpatient Non-Surgical Treatment,E3 | E4 | W5 | W6 | W8 ,5
+4.3.1.1,Inspect,E2 | M1 | W10 ,3
+4.3.2.1,Inspect,N/A ,0
+9.1.2.2,Inspections,W3 | W8 | W9 ,3
+4.7.2.9,Installation Feeding,N/A ,0
+4.7.2.2,Installation Safety,M1 | W4 | W6 | W8 ,4
+4.7.2,Installation Services,N/A ,0
+5.1.2.4,Integrate Capabilities,E2 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W7 ,9
+2.4.1,Integration (AP),N/A ,0
+3.2.2.5.4,Intelligence  Surveillance and Reconnaissance (ENKES),N/A ,0
+1.4.2.4.8,Intensive Care,E3 | E4 | W2 | W5 | W6 | W8 ,6
+2.4.3,Interpretation (AP),M1 | W1 | W10 | W5 | W7 ,5
+5.4.5,Intuit,W1 | W5 ,2
+4.2.2,Inventory Management,E3 | E4 | W10 ,3
+9.1.2.3,Investigations,W3 | W8 | W9 ,3
+5.5.1.6,Issue Alerts,E4 ,1
+5.5.1.1,Issue Estimates,W1 | W2 | W5 ,3
+5.5.2.3,Issue Orders,E4 ,1
+5.5.2.2,Issue Plans,E4 ,1
+5.5.1.2,Issue Priorities,W1 | W5 ,2
+5.5.1.3,Issue Rule Sets,N/A ,0
+1.4.3.5,Joint and Service Medical Education and Training,E2 | E3 | M1 | W2 | W3 | W5 | W8 ,7
+1.4.1.12,Joint Medical Logistics and Infrastructure Support (JMLIS),E4 | W10 | W5 | W8 | W9 ,5
+3.2.1,Kinetic Means,N/A ,0
+1.4.2.3.4,Laboratory Diagnostic Services,E3 | E4 | W5 | W8 ,4
+3.1.1.3,Land (MTE),N/A ,0
+3.1.2.3,Land (MTI),N/A ,0
+3.1.3.3,Land (MTInfl),N/A ,0
+3.1.4.3,Land (MTS),N/A ,0
+4.7.2.8,Launch Support Services,N/A ,0
+9.1.1.1,Legal Matters,N/A ,0
+9.1.1.2,Legislative Matters,M1 | W1 | W3 | W5 | W8 ,5
+1.2.5,Lessons Learned,E1 | E2 | E3 | E4 | M1 | W1 | W4 | W5 | W7 | W8 ,10
+8.2.4,Leverage Capacities and Capabilities of Security Establishments,M1 | W5 | W7 ,3
+1.4.1.7.2,Leverage Mission Partners,E3 | E4 | W5 | W6 | W8 | W9 ,6
+2.2.2.2,Light Detection and Ranging (IC),N/A ,0
+6.1.1.2.1,Line of Sight,W7 ,1
+6.1.1.1.1,Localized Communications,N/A ,0
+4,Logistics,N/A ,0
+4.4,Logistics Services,N/A ,0
+6.1.1.1.2,Long-Haul Telecommunications,N/A ,0
+4.3,Maintain,N/A ,0
+1.4.3.6.3,Manage DHP Military Personnel by End Strength,M1 | W2 | W5 ,3
+4.2.3,Manage Global Supplier Networks,E3 | E4 | W10 | W4 | W9 ,5
+1.4.1.5.4,Manage Patient Movement Items (PMIs),E3 | E4 | W5 | W8 ,4
+1.4.3.6.4,Manage Pay for Performance and Prospective Payment Programs,E1 | M1 | W5 | W8 ,4
+5.4.1,Manage Risk,E4 | W1 | W5 | W7 | W9 ,5
+4.2.1,Manage Supplies and Equipment,E3 | E4 | M1 | W10 ,4
+1.4.3.6.2,Manage the Medicare-Eligible Retiree Health Care Fund,M1 | W6 ,2
+1.4.1.1.1,Manage Warfighter Fatigue,E3 | E4 | W10 | W8 ,4
+1.4.1.1.7,Manage Warfighter Performance,E3 | E4 | W8 ,3
+3.1,Maneuver,N/A ,0
+3.1.1,Maneuver to Engage (MTE),N/A ,0
+3.1.3,Maneuver to Influence (MTInfl),N/A ,0
+3.1.2,Maneuver to Insert (MTI),N/A ,0
+3.1.4,Maneuver to Secure (MTS),N/A ,0
+7.1.1.1.1,Maneuvering (PKA),N/A ,0
+7.1.1.2.1,Maneuvering (PKS),N/A ,0
+7.1.1.3.1,Maneuvering (PKSS),N/A ,0
+1.3.2.1,Manning,E1 | E2 | E3 | M1 | W2 | W5 ,6
+3.1.1.4,Maritime (MTE),N/A ,0
+3.1.2.4,Maritime (MTI),N/A ,0
+3.1.3.4,Maritime (MTInfl),N/A ,0
+3.1.4.4,Maritime (MTS),N/A ,0
+4.6.1.7,Master Facility Design,E3 | E4 | W10 | W3 | W4 | W5 | W6 | W8 ,8
+2.2.3.5,Materials (MSC),E4 | W8 ,2
+2.2.3,Measurements and Signatures Collection,N/A ,0
+1.4.1.6.5,Medical Care in a CBRNE Environment,E2 | E3 | E4 | W10 | W8 | W9 ,6
+1.4.1.7,Medical Command and Control,E4 | M1 | W3 | W4 | W5 | W8 ,6
+1.4.1.12.7,Medical Contract Management,E4 | W1 | W3 | W5 | W8 | W9 ,6
+1.4.3.9.8,Medical Contract Management,E3 | M1 | W3 | W5 | W8 ,5
+1.4.1.12.2,Medical Equipment and Technology,E3 | E4 | W10 | W3 | W5 | W8 ,6
+1.4.3.9.3,Medical Equipment and Technology,E3 | E4 | W10 | W5 | W8 ,5
+1.4.1.12.3,Medical Equipment Maintenance,E3 | E4 | W10 | W3 | W5 | W8 ,6
+1.4.3.9.4,Medical Equipment Maintenance,E3 | E4 | W10 | W5 | W8 ,5
+1.4.1.5.5,Medical Evacuation (MEDEVAC),E3 | E4 | W10 | W2 | W5 | W8 | W9 ,7
+1.4.1.12.5,Medical Facilities,E3 | E4 | M1 | W3 | W5 | W8 ,6
+1.4.3.9.6,Medical Facilities,E4 | W3 | W5 | W8 | W9 ,5
+1.4.3.6,Medical Financial Management,E3 | M1 | W3 | W5 | W6 | W8 ,6
+1.4.3.7,Medical Information Management,M1 | W10 | W5 | W7 ,4
+1.4.3.9,Medical Logistics,E3 | E4 | W10 | W3 | W5 | W8 ,6
+1.4.1.12.8,Medical Logistics Integration,E4 | W3 | W5 | W8 | W9 ,5
+1.4.1.12.9,Medical Logistics Management,E4 | W3 | W5 | W8 ,4
+1.4.1.12.6,Medical Logistics Services,E3 | E4 | M1 | W3 | W5 | W8 ,6
+1.4.3.9.7,Medical Logistics Services,E4 | W3 | W5 | W8 ,4
+1.4.2.4.6,Medical Management (Chronic Illnesses),E3 | E4 | W5 | W6 | W8 ,5
+1.4.1.12.1,Medical Materiel,E3 | E4 | W10 | W3 | W5 | W8 ,6
+1.4.3.9.1,Medical Materiel Blood,E3 | E4 | W10 | W5 | W8 | W9 ,6
+1.4.3.5.2,Medical Readiness Training,E2 | E3 | W1 | W2 | W8 | W9 ,6
+1.4.1.5.6,Medical Regulation,E3 | E4 | W10 | W5 | W8 ,5
+1.4.3.10,Medical Research and Development,E3 | W1 | W10 | W3 ,4
+1.4.3.2.1,Medical Services Acquisition,E3 | E4 | M1 | W1 | W10 | W3 | W5 | W6 | W8 ,9
+1.4.2.6.2,Medical Support to Disability Evaluation,E3 | E4 | W8 ,3
+1.4.2.4.12,Mental Healthcare,E3 | E4 | W5 | W6 | W8 ,5
+7.2,Mitigate,E2 | E4 | W5 ,3
+7.2.1,Mitigate Lethal Effects,E4 ,1
+7.2.2,Mitigate Non-Lethal Effects,E4 | W10 | W3 ,3
+1.4.1.10.3,Mitigation of health consequences of hostile action,E3 | E4 | W5 | W8 ,4
+4.3.1.5.1,Modify,E2 | M1 | W10 ,3
+4.3.2.5.1,Modify,N/A ,0
+5.6,Monitor,N/A ,0
+2.1.3.3,Monitor (P&D),E4 | W8 ,2
+1.4.1.7.6,Monitor EXecution  Assess Effects and Adapt Operations,E4 | W5 | W8 | W9 ,4
+1.4.3.2.2,Monitoring,E3 | M1 | W10 | W3 | W5 | W6 | W8 ,7
+4.4.5,Mortuary Affairs,N/A ,0
+4.4.5.2,Mortuary Operations,N/A ,0
+4.1.1,Move the Force,N/A ,0
+3.2.1.3,Moving Targets (EK),N/A ,0
+3.2.2.3,Moving Targets (ENK),N/A ,0
+7.2.1.9,Natural Hazards (ML),E4 | W10 | W3 ,3
+7.2.2.9,Natural Hazards (MN),N/A ,0
+6.1.2,Net Management,N/A ,0
+6.1.2.1.1,Network Resource Visibility,W7 ,1
+1.4.1.4,Non-Clinical Preventive Medicine / Health Surveillance,E3 | E4 | W10 | W8 ,4
+7.2.1.2.2,Non-Contagious (MLB),E4 | W10 | W3 ,3
+7.2.2.2.2,Non-Contagious (MNB),N/A ,0
+1.4.2.4.1,Non-Emergency Medical Transport,E3 | E4 | W5 | W8 ,4
+3.2.2,Non-Kinetic Means,N/A ,0
+7.1.1.1.2,Non-Maneuvering (PKA),N/A ,0
+7.1.1.2.2,Non-Maneuvering (PKS),N/A ,0
+7.1.1.3.2,Non-Maneuvering (PKSS),N/A ,0
+7.2.1.4,Nuclear (ML),E4 | W10 ,2
+2.2.3.6,Nuclear Radiation (MSC),E4 | W8 ,2
+2.2.4.3,Observation (HBC),E4 | W3 ,2
+1.4.2.2.3,Occupational Health Services,E3 | E4 | W5 | W8 ,4
+1.4.2.5.4,Occupational Rehabilitation,E3 | E4 | W6 | W8 ,4
+1.4.2.5.5,Occupational Therapy,E3 | E4 | W6 | W8 ,4
+3.2.2.4.1,Offensive Cyber,N/A ,0
+4.1.3,Operate the Joint Deployment and Distribution Enterprise,N/A ,0
+4.2.5,Operate the Joint Supply Enterprise (JSE),E3 | E4 | W10 | W4 | W9 ,5
+4.5,Operational Contract Support,N/A ,0
+9.1.3,Operational Test and Evaluation,E4 | W10 ,2
+4.1.1.2,Operationally Move the Force,N/A ,0
+1.4.1.12.4,Optical,E3 | E4 | W10 | W3 | W5 | W8 ,6
+1.4.3.9.5,Optical,E3 | E4 | W10 | W5 | W8 ,5
+2.1.3.5,Optimize (P&D),E4 | W8 ,2
+1.4.1.2.3,Optimize Health and Fitness of the Deployed Force,E3 | E4 | W8 ,3
+1.4.1.2.2,Optimize Health and Fitness of the Non-deployed Force,E3 | E4 | W8 ,3
+1.4.1.1.2,Optimize Human Systems Integration (HSI),E3 | E4 | W10 | W2 | W3 | W8 ,6
+6.1.2.1,Optimized Network Functions and Resources,W7 ,1
+1.4.1.6.3,Organic and Area Medical Support in Theater,E2 | E3 | E4 | W10 | W8 | W9 ,6
+5.1,Organize,N/A ,0
+5.2.1,Organize Information,N/A ,0
+5.2.1,Organize Information,N/A ,0
+4.4.2.3,Packaged Water (bottled/pouched),E4 ,1
+8.2.1,Partner with Governments and Institutions,E4 | W3 | W9 ,3
+1.4.3.3,Partnership Development,E2 | E3 | W1 | W2 | W3 | W5 | W6 | W8 | W9 ,9
+1.4.1.6.5.1,Patient Decontamination,E2 | E3 | E4 | W10 | W8 ,5
+1.4.1.6.5.2,Patient Medical Countermeasures,E2 | E3 | E4 | W10 | W8 ,5
+1.4.1.5.7,Patient Movement Planning  C2,E2 | E3 | E4 | W1 | W10 | W2 | W3 | W4 | W5 | W8 | W9 ,11
+1.4.2.1.1.3,Patient Safety:,E2 | E3 | W1 | W2 | W5 | W8 ,6
+4.4.4.1,Personal Hygiene Services,N/A ,0
+1.3.2.4,Personnel Accountability,E4 | M1 | W5 ,3
+1.3.1,Personnel and Family Support,E2 | E3 | M1 | W1 | W2 | W3 | W5 | W6 | W7 | W8 ,10
+1.3.2,Personnel Management,E1 | E2 | M1 | W2 | W5 ,5
+9.1.2.4,Personnel Security Investigations and Clearance Certification,E1 ,1
+8.1.2,Persuade Partner Audiences,N/A ,0
+1.4.2.4.10,Pharmacy Services,E3 | E4 | W2 | W5 | W6 | W8 ,6
+2.2.2.5,Physical Environment (IC),N/A ,0
+1.4.2.5.1,Physical Rehabilitation,E3 | E4 | W5 | W6 | W8 ,5
+1.4.2.5.1.1,Physical Therapy,E3 | E4 | W6 | W8 ,4
+1.4.1.7.1,Plan Collaboratively,E1 | E2 | E3 | E4 | M1 | W1 | W10 | W2 | W3 | W4 | W5 | W6 | W8 | W9 ,14
+5.3,Planning,W1 | W10 | W3 | W4 | W5 | W6 | W7 | W9 ,8
+2.1,Planning and Direction,E4 | W3 ,2
+3.2.1.1.1.1,Point (EKFS),N/A ,0
+3.2.1.3.3.1,Point (EKMS),N/A ,0
+3.2.1.2.1.1,Point (EKSS),N/A ,0
+3.2.2.1.1.1,Point (ENKFS),N/A ,0
+3.2.2.3.3.1,Point (ENKMS),N/A ,0
+3.2.2.2.1.1,Point (ENKSS),N/A ,0
+3.1.4.3.1,Populations (MTSL),N/A ,0
+4.7.2.6,Port Services,N/A ,0
+6.2.3.1,Portal Services,E4 | W7 ,2
+1.4.3.8.2,Portfolio Management,M1 | W3 | W8 ,3
+9.4.4.3,Portfolio System Acquisition,W1 | W3 ,2
+6.2.4,Position  Navigation and Timing,N/A ,0
+3.2.2.5.1,Position  Navigation and Timing (ENKES),N/A ,0
+2.4.4,Prediction (AP),W1 | W10 | W3 | W7 ,4
+5.2.3.3,Prepare Distributable ConteXt,W1 | W3 | W4 | W5 | W6 | W7 | W9 ,7
+7.1,Prevent,N/A ,0
+7.1.1,Prevent Kinetic Attack,N/A ,0
+7.1.2,Prevent Non-kinetic Attack,N/A ,0
+1.4.2.2.2,Preventive Dentistry Services,E3 | E4 | W5 | W8 ,4
+1.4.2.2.1.2,Preventive Health Counseling:,E3 | E4 | W5 | W8 ,4
+1.4.2.2.1,Preventive Medical Services,E3 | E4 | W5 | W8 ,4
+1.4.2.4.3.1,Primary Care:,E3 | E4 | W5 | W6 | W8 ,5
+2.3,Processing / EXploitation,N/A ,0
+2.4.5,Product Generation (AP),E4 | W10 | W8 ,3
+9.4.4.4,Production & Lifecycle Acquisition,W1 | W3 ,2
+1.2.3.1,Professional Military Education,E1 | E2 | W1 | W2 | W8 ,5
+9.5.1,Program Initiation,E4 | W10 | W3 | W5 ,4
+9.4.4.1,Program Management,E2 | E4 | W10 | W4 | W5 | W6 | W7 | W8 | W9 ,9
+4.5.3,Program/ Budget and Finance,M1 | W1 | W10 | W3 | W7 ,5
+9.5,Program/ Budget and Performance,M1 | W1 | W10 | W4 | W5 | W7 ,6
+7.2.1.7,Projectiles (ML),E4 | W10 | W3 ,3
+7.2.2.6,Projectiles (MN),N/A ,0
+6.1.3.2.2,Protect Against Denial or Degradation of Services,W7 ,1
+6.1.3.2.3,Protect Against Disclosure or Modification of Data,N/A ,0
+6.1.3.2.1,Protect Against Network Infiltration,W7 ,1
+6.1.3.2,Protect Data and Networks,W7 ,1
+7,Protection,N/A ,0
+1.4.1.10.2,Protection of force health,E3 | E4 | W10 | W8 ,4
+1.4.1.2,Provide a Healthy and Fit Force (Health and Wellness),E3 | E4 | W8 ,3
+8.2.2,Provide Aid to Foreign Partners and Institutions,N/A ,0
+1.4.1.1.6,Provide and Maintain Ability to Operate Across the Full Range of Military Operations,E3 | E4 | W8 | W9 ,4
+1.4.1.4.1,Provide Comprehensive Health Surveillance,E3 | E4 | W8 ,3
+5.5.1.4,Provide Concept of Operations,E4 ,1
+1.4.1.3.1,Provide Food Safety and Inspections,E4 | W8 ,2
+1.4.1.4.7,Provide for Medical Countermeasures,E3 | E4 | W1 | W10 | W8 ,5
+1.4.1.4.8,Provide for Non-Medical Countermeasures,E4 | W1 | W8 ,3
+1.4.1.4.5,Provide Health Risk Assessment,E4 | W1 | W10 | W8 ,4
+1.4.1.4.6,Provide Health Risk Communications (Including CBRNE),E4 | W8 ,2
+1.4.1.4.4,Provide Health Risk Evaluation (Characterization),E3 | E4 | W10 | W8 ,4
+1.4.1.3.3,Provide Health-Related Education,E4 | W8 ,2
+4.7.1.1,Provide Installation Assets,M1 | W4 | W5 ,3
+1.4.1.4.2,Provide Medical Intelligence Preparation of the Operational Environment (MIPOE),E4 | W8 ,2
+1.4.1.3.2,Provide Military Working Animal Care,E4 | W8 ,2
+4.6.3.2,Provide Mobility Assessments,N/A ,0
+1.4.1.5.8,Provide Patient Reception  Staging and Re-distribution,E3 | E4 | W10 | W8 | W9 ,5
+6.2.4.1,Provide Position  Navigation and Timing Information,N/A ,0
+1.4.1.3,Provide Public Health / Veterinary Services,E3 | W8 ,2
+1.4.1.3.4,Provide Public Health Sanitation  Control of Disease Vectors  and Other Health Threats,E3 | E4 | W8 ,3
+5.5.1.5,Provide Warnings,E4 ,1
+1.4.2.5.1.3,Psychological Rehabilitation,E3 | E4 | W6 | W8 ,4
+1.4.2.2.4,Public Health Laboratory (PHL) Services,E3 | E4 | W8 ,3
+1.4.2.1.1.1,Quality Assurance:,E2 | E3 | W1 | W2 | W5 | W8 ,6
+1.4.2.1.1.4,Quality Improvement (QI):,E2 | E3 | W1 | W5 | W8 ,5
+3.2.2.5.2,Radar (ENKES),N/A ,0
+2.2.2.3,Radar (IC),N/A ,0
+2.2.3.2,Radar (MSC),N/A ,0
+2.2.3.4,Radio-Frequency (MSC),N/A ,0
+7.2.1.3,Radiological (ML),E4 | W10 ,2
+7.2.2.3,Radiological (MN),N/A ,0
+1.4.2.3.5,Radiology Diagnostic Services,E3 | E4 | W5 | W8 ,4
+4.7.2.7,Range Management,N/A ,0
+6.1.2.1.2,Rapid Configuration Change,W7 ,1
+1.1.4,Readiness Reporting,E4 | M1 | W5 | W8 ,4
+4.7.1,Real Property Life Cycle Management,N/A ,0
+4.3.1.5,Rebuild,M1 | W10 ,2
+4.3.2.5,Rebuild,N/A ,0
+4.7.1.4,Recapitalization of Installation Assets,N/A ,0
+4.3.1.3.2,Reclaim,E2 | M1 | W10 ,3
+4.3.2.3.2,Reclaim,N/A ,0
+1.4.2.5,REHABILITATION,E3 | E4 | W5 | W6 | W8 ,5
+1.4.2.6,REINTEGRATION,E3 | E4 | W6 | W8 | W9 ,5
+1.3.1.4.2,Religious Advisement,N/A ,0
+1.3.1.4,Religious Affairs,N/A ,0
+1.3.1.4.1,Religious Support,N/A ,0
+4.4.1.3,Remote Unit Feeding,N/A ,0
+4.3.1.5.2,Renovate,E2 | M1 | W10 ,3
+4.3.2.5.2,Renovate,N/A ,0
+4.3.1.4,Repair,E2 | M1 | W10 ,3
+4.3.2.4,Repair,N/A ,0
+4.6.1.5,Repair and Restore Infrastructure,E3 | E4 | W5 ,3
+9.4.1,Research,E4 | W10 | W7 ,3
+3.1.4.3.3,Resources (MTSL),N/A ,0
+1.4.2.1.1.2,Risk Management:,E2 | E3 | W1 | W2 | W5 | W6 | W8 ,7
+1.4.2.4.4,Routine Ambulatory Care (Dental),E3 | E4 | W5 | W6 | W8 ,5
+1.4.2.4.3,Routine Ambulatory Care (Medical),E3 | E4 | W5 | W8 ,4
+1.4.2.2.1.1,Screening:,E3 | E4 | W5 | W8 ,4
+6.1.3.1,Secure Information EXchange,E4 | W7 ,2
+5.4.2,Select Actions,W1 | W4 | W5 | W6 | W9 ,5
+5.4.2.1,Select Course of Action,W1 | W4 | W5 | W9 ,4
+5.4.2.2,Select Plan,W1 | W5 | W9 ,3
+1.4.2.5.1.2,Sensory Rehabilitation,E3 | E4 | W6 | W8 ,4
+6.2.2.3,Server Services,E4 | W7 ,2
+4.3.1.3,Service,M1 | W10 ,2
+4.3.2.3,Service,N/A ,0
+3.2.1.1.3.3,Shallow (EKFU),N/A ,0
+3.2.1.3.5.3,Shallow (EKMU),N/A ,0
+3.2.1.2.3.3,Shallow (EKSU),N/A ,0
+8.2,Shape,N/A ,0
+5.2.3,Share Knowledge and Situational Awareness,W1 | W3 | W4 | W5 | W7 | W9 ,6
+6.2.2.1,Shared Computing,E4 | W7 ,2
+1.4.1.8,Shared Situational Understanding and Awareness,E4 | M1 ,2
+4.4.3.1,Shelter,N/A ,0
+2.2.1,Signals Collection,N/A ,0
+2.2.4.6,Socio-Cultural Data (HBC),N/A ,0
+3.2.1.1.1.2.2,Soft (EKFSA),N/A ,0
+3.2.1.1.1.1.2,Soft (EKFSP),N/A ,0
+3.2.1.3.3.2.2,Soft (EKMSA),N/A ,0
+3.2.1.3.3.1.2,Soft (EKMSP),N/A ,0
+3.2.1.3.4.1,Soft (EKMU),N/A ,0
+3.2.1.2.1.2.2,Soft (EKSSA),N/A ,0
+3.2.1.2.1.1.2,Soft (EKSSP),N/A ,0
+3.2.1.2.2.1,Soft (EKSU),N/A ,0
+4.4.3.5,Solid Waste Management,N/A ,0
+2.2.2.4,Sonar (IC),N/A ,0
+2.2.3.7,Sonar (MSC),N/A ,0
+3.2.1.3.2,Space (EKM),N/A ,0
+3.2.2.3.2,Space (ENKM),N/A ,0
+3.1.1.2,Space (MTE),N/A ,0
+3.1.2.2,Space (MTI),N/A ,0
+3.1.3.2,Space (MTInfl),N/A ,0
+3.1.4.2,Space (MTS),N/A ,0
+1.4.2.4.3.2,Specialty Care,E3 | E4 | W5 | W6 | W8 ,5
+6.1.2.3.2,Spectrum Assignment,N/A ,0
+6.1.2.3.3,Spectrum Deconfliction,N/A ,0
+6.1.2.3,Spectrum Management,N/A ,0
+6.1.2.3.1,Spectrum Monitoring,N/A ,0
+1.4.3.5.3,Staff Development,E2 | E3 | W1 | W2 | W5 | W8 ,6
+1.4.1.5.9,Staging and Management of Patient Movement Teams,E3 | E4 | W10 | W8 | W9 ,5
+3.2.1.2,Stationary Target (EK),N/A ,0
+3.2.2.2,Stationary Target (ENK),N/A ,0
+8.2.4.3,Stimulate the Use of Foreign Security-Related Capabilities,W5 ,1
+4.1.1.1,Strategically Move the Force,N/A ,0
+9.2,Strategy and Assessment,E4 | W10 ,2
+9.2.1,Strategy Development,N/A ,0
+1.3.2.5,Strength Reporting,E4 | M1 | W5 ,3
+8.2.5,Strengthen Global Defense Posture,W5 ,1
+5.1.2,Structure Organization to Mission,N/A ,0
+9.2.4,Studies & Analyses,E4 | W10 | W7 ,3
+1.4.2.4.13,Substance Abuse Care,E3 | E4 | W5 | W6 | W8 ,5
+7.1.2.3,Sub-Surface (PN),E4 ,1
+7.1.1.3,Sub-Surface Kinetic (PK),N/A ,0
+4.2,Supply,N/A ,0
+8.2.2.2,Supply Partner Aid,N/A ,0
+1.4.1.10,Support to Homeland Defense and Civil Support Operations,E2 | E3 | E4 | W2 | W5 | W8 ,6
+1.4.1.9,Support to Stability Operations,E2 | E3 | E4 | W10 | W5 | W8 | W9 ,7
+3.2.1.1.3.1,Surf Zone (EKFU),N/A ,0
+3.2.1.3.5.1,Surf Zone (EKMU),N/A ,0
+3.2.1.2.3.1,Surf Zone (EKSU),N/A ,0
+3.2.1.1.1,Surface (EKF),N/A ,0
+3.2.1.3.3,Surface (EKM),N/A ,0
+3.2.1.2.1,Surface (EKS),N/A ,0
+3.2.2.1.1,Surface (ENKF),N/A ,0
+3.2.2.3.3,Surface (ENKM),N/A ,0
+3.2.2.2.1,Surface (ENKS),N/A ,0
+7.1.1.2,Surface (PK),N/A ,0
+7.1.2.2,Surface (PN),N/A ,0
+1.4.2.4.5,Surgery (Ambulatory),E3 | E4 | W5 | W6 | W8 ,5
+1.4.2.4.9,Surgery (Inpatient),E3 | E4 | W5 | W6 | W8 ,5
+4.1.2,Sustain the Force,N/A ,0
+4.7.1.3,Sustainment of Installation Assets,E3 | E4 | W4 | W5 ,4
+6.1.1.3,Switching and Routing,W7 ,1
+1.4.1.7.5,Synchronize EXecution Across All Domains,E4 | W5 | W8 | W9 ,4
+5.5.2.1,Synchronize Operations,E4 | W4 ,2
+9.4.3.1,Systems Engineering & Manufacturing,E4 | W10 | W3 | W5 ,4
+5.5.2,Task,N/A ,0
+2.1.3.2,Task and Direct Information Collection (P&D),E4 | W8 ,2
+2.1.3,Task and Monitor Resources (P&D),E4 | W3 | W8 ,3
+4.3.1.2,Test,E2 | M1 | W10 ,3
+4.3.2.2,Test,N/A ,0
+4.4.4.2,TeXtile Services,N/A ,0
+1.4.1.6.4,Theater Hospitalization,E2 | E3 | E4 | W10 | W8 | W9 ,6
+1.4.2.4.11,Therapeutic Radiology Services,E3 | E4 | W5 | W6 | W8 ,5
+1.4.3.4,Total Medical Force (Medical Professionals),E3 | M1 | W2 | W3 | W8 ,5
+1.4.3.4.1,Total Medical Force Recruiting and Retention,E3 | M1 | W2 | W3 | W5 | W8 ,6
+1.2.1,Training,E1 | E2 | W1 | W2 | W8 ,5
+1.4.2.6.3,Transitional Services,E3 | E4 | W8 | W9 ,4
+1.4.2.4,TREATMENT,E3 | E4 | W5 | W8 ,4
+3.2.1.1.2,Underground (EKF),N/A ,0
+3.2.1.3.4,Underground (EKM),N/A ,0
+3.2.1.2.2,Underground (EKS),N/A ,0
+3.2.2.1.2,Underground (ENKF),N/A ,0
+3.2.2.3.4,Underground (ENKM),N/A ,0
+3.2.2.2.2,Underground (ENKS),N/A ,0
+3.1.1.5,Underground (MTE),N/A ,0
+3.1.2.5,Underground (MTI),N/A ,0
+3.1.3.5,Underground (MTInfl),N/A ,0
+3.1.4.5,Underground (MTS),N/A ,0
+5.2,Understand,N/A ,0
+5.2.2.1,Understand Implications,E1 | E2 | M1 | W1 | W4 | W5 | W7 | W8 | W9 ,9
+5.3.4.2,Understand Objectives,W1 | W6 ,2
+3.2.1.1.3,Underwater (EKF),N/A ,0
+3.2.1.3.5,Underwater (EKM),N/A ,0
+3.2.1.2.3,Underwater (EKS),N/A ,0
+3.2.2.1.3,Underwater (ENKF),N/A ,0
+3.2.2.3.5,Underwater (ENKM),N/A ,0
+3.2.2.2.3,Underwater (ENKS),N/A ,0
+3.1.1.6,Underwater (MTE),N/A ,0
+3.1.2.6,Underwater (MTI),N/A ,0
+3.1.3.6,Underwater (MTInfl),N/A ,0
+3.1.4.6,Underwater (MTS),N/A ,0
+4.4.3.3,Utility Operations,N/A ,0
+1.4.2.4.6.3,Utilization Management:,E3 | W1 | W5 | W8 ,4
+4.6.3.1,Utilize Geospatial Data,N/A ,0
+6.2.4.2,Utilize Position  Navigation and Timing Information,N/A ,0
+2.1.3.1,Validate Information Collection Needs (P&D),E4 | W3 | W8 ,3
+3.2.1.1.3.2,Very Shallow (EKFU),N/A ,0
+3.2.1.3.5.2,Very Shallow (EKMU),N/A ,0
+3.2.1.2.3.2,Very Shallow (EKSU),N/A ,0
+4.4.2,Water and Ice Service,N/A ,0
+4.4.3.4,Water Reuse,N/A ,0
+6.1.1.1,Wired Transmission,N/A ,0
+6.1.1.2,Wireless Transmission,W7 ,1
+1.3.1.3,Wounded  ill and Injured Support,E2 | E3 | E4 | W1 | W2 | W5 | W6 | W7 | W8 | W9 ,10
